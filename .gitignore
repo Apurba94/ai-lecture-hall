@@ -1,0 +1,11 @@
+# Vercel (local link + private token file)
+.vercel
+.env*
+
+# Generated website — Vercel rebuilds it from content/ on every push
+site/
+
+# Local packages and tooling
+*.zip
+.claude/
+node_modules/

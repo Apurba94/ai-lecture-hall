@@ -1,0 +1,6 @@
+*.zip
+.claude
+node_modules
+.env
+.env.*
+.vercel
