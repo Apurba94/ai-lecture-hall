@@ -1,0 +1,951 @@
+{
+ "what-is-artificial-intelligence": [
+  {
+   "title": "What Is Artificial Intelligence?",
+   "url": "https://ai-in-motion.vercel.app/watch/what-is-artificial-intelligence.html",
+   "minutes": 2
+  }
+ ],
+ "landscape-of-modern-ai": [
+  {
+   "title": "What Is Artificial Intelligence?",
+   "url": "https://ai-in-motion.vercel.app/watch/what-is-artificial-intelligence.html",
+   "minutes": 2
+  }
+ ],
+ "narrow-general-and-super-intelligence": [
+  {
+   "title": "What Is Artificial Intelligence?",
+   "url": "https://ai-in-motion.vercel.app/watch/what-is-artificial-intelligence.html",
+   "minutes": 2
+  }
+ ],
+ "history-of-ai": [
+  {
+   "title": "A Short History of AI",
+   "url": "https://ai-in-motion.vercel.app/watch/history-of-ai.html",
+   "minutes": 1
+  }
+ ],
+ "turing-test-and-its-critics": [
+  {
+   "title": "A Short History of AI",
+   "url": "https://ai-in-motion.vercel.app/watch/history-of-ai.html",
+   "minutes": 1
+  }
+ ],
+ "expert-systems-rule-based-ai": [
+  {
+   "title": "A Short History of AI",
+   "url": "https://ai-in-motion.vercel.app/watch/history-of-ai.html",
+   "minutes": 1
+  }
+ ],
+ "intelligent-agents-and-environments": [
+  {
+   "title": "Intelligent Agents: Perceive, Decide, Act",
+   "url": "https://ai-in-motion.vercel.app/watch/intelligent-agents.html",
+   "minutes": 1
+  }
+ ],
+ "ai-agents-tool-use": [
+  {
+   "title": "Intelligent Agents: Perceive, Decide, Act",
+   "url": "https://ai-in-motion.vercel.app/watch/intelligent-agents.html",
+   "minutes": 1
+  }
+ ],
+ "uninformed-search-strategies": [
+  {
+   "title": "Breadth-First vs Depth-First Search",
+   "url": "https://ai-in-motion.vercel.app/watch/breadth-first-and-depth-first-search.html",
+   "minutes": 2
+  },
+  {
+   "title": "A* Search: Smarter Pathfinding",
+   "url": "https://ai-in-motion.vercel.app/watch/a-star-search.html",
+   "minutes": 2
+  }
+ ],
+ "informed-search-a-star": [
+  {
+   "title": "A* Search: Smarter Pathfinding",
+   "url": "https://ai-in-motion.vercel.app/watch/a-star-search.html",
+   "minutes": 2
+  }
+ ],
+ "adversarial-search-minimax-alpha-beta": [
+  {
+   "title": "Minimax and Alpha–Beta Pruning",
+   "url": "https://ai-in-motion.vercel.app/watch/minimax-and-alpha-beta.html",
+   "minutes": 2
+  }
+ ],
+ "monte-carlo-tree-search": [
+  {
+   "title": "Minimax and Alpha–Beta Pruning",
+   "url": "https://ai-in-motion.vercel.app/watch/minimax-and-alpha-beta.html",
+   "minutes": 2
+  }
+ ],
+ "alphago-alphazero": [
+  {
+   "title": "Minimax and Alpha–Beta Pruning",
+   "url": "https://ai-in-motion.vercel.app/watch/minimax-and-alpha-beta.html",
+   "minutes": 2
+  }
+ ],
+ "local-search-hill-climbing-simulated-annealing": [
+  {
+   "title": "Hill Climbing and Simulated Annealing",
+   "url": "https://ai-in-motion.vercel.app/watch/hill-climbing-and-simulated-annealing.html",
+   "minutes": 2
+  }
+ ],
+ "genetic-algorithms-evolutionary-computation": [
+  {
+   "title": "Hill Climbing and Simulated Annealing",
+   "url": "https://ai-in-motion.vercel.app/watch/hill-climbing-and-simulated-annealing.html",
+   "minutes": 2
+  },
+  {
+   "title": "Genetic Algorithms: Evolution in Code",
+   "url": "https://ai-in-motion.vercel.app/watch/genetic-algorithms.html",
+   "minutes": 1
+  }
+ ],
+ "swarm-intelligence-pso-aco": [
+  {
+   "title": "Genetic Algorithms: Evolution in Code",
+   "url": "https://ai-in-motion.vercel.app/watch/genetic-algorithms.html",
+   "minutes": 1
+  }
+ ],
+ "bayes-theorem-explained": [
+  {
+   "title": "Bayes’ Theorem: Reasoning Under Uncertainty",
+   "url": "https://ai-in-motion.vercel.app/watch/bayes-theorem.html",
+   "minutes": 1
+  }
+ ],
+ "bayesian-networks": [
+  {
+   "title": "Bayes’ Theorem: Reasoning Under Uncertainty",
+   "url": "https://ai-in-motion.vercel.app/watch/bayes-theorem.html",
+   "minutes": 1
+  }
+ ],
+ "naive-bayes-classifiers": [
+  {
+   "title": "Bayes’ Theorem: Reasoning Under Uncertainty",
+   "url": "https://ai-in-motion.vercel.app/watch/bayes-theorem.html",
+   "minutes": 1
+  }
+ ],
+ "large-language-models-overview": [
+  {
+   "title": "How Large Language Models Work",
+   "url": "https://ai-in-motion.vercel.app/watch/how-large-language-models-work.html",
+   "minutes": 2
+  }
+ ],
+ "gpt-family-autoregressive-models": [
+  {
+   "title": "How Large Language Models Work",
+   "url": "https://ai-in-motion.vercel.app/watch/how-large-language-models-work.html",
+   "minutes": 2
+  }
+ ],
+ "decoding-strategies-sampling": [
+  {
+   "title": "How Large Language Models Work",
+   "url": "https://ai-in-motion.vercel.app/watch/how-large-language-models-work.html",
+   "minutes": 2
+  }
+ ],
+ "llm-hallucination": [
+  {
+   "title": "How Large Language Models Work",
+   "url": "https://ai-in-motion.vercel.app/watch/how-large-language-models-work.html",
+   "minutes": 2
+  }
+ ],
+ "attention-mechanism": [
+  {
+   "title": "Attention and Transformers",
+   "url": "https://ai-in-motion.vercel.app/watch/attention-and-transformers.html",
+   "minutes": 2
+  }
+ ],
+ "self-attention-in-depth": [
+  {
+   "title": "Attention and Transformers",
+   "url": "https://ai-in-motion.vercel.app/watch/attention-and-transformers.html",
+   "minutes": 2
+  }
+ ],
+ "transformer-architecture-explained": [
+  {
+   "title": "Attention and Transformers",
+   "url": "https://ai-in-motion.vercel.app/watch/attention-and-transformers.html",
+   "minutes": 2
+  }
+ ],
+ "diffusion-models": [
+  {
+   "title": "How AI Image Generators Work",
+   "url": "https://ai-in-motion.vercel.app/watch/how-image-generators-work.html",
+   "minutes": 1
+  }
+ ],
+ "latent-diffusion-stable-diffusion": [
+  {
+   "title": "How AI Image Generators Work",
+   "url": "https://ai-in-motion.vercel.app/watch/how-image-generators-work.html",
+   "minutes": 1
+  }
+ ],
+ "text-to-image-and-video-generation": [
+  {
+   "title": "How AI Image Generators Work",
+   "url": "https://ai-in-motion.vercel.app/watch/how-image-generators-work.html",
+   "minutes": 1
+  }
+ ],
+ "what-is-machine-learning": [
+  {
+   "title": "What Is Machine Learning?",
+   "url": "https://ai-in-motion.vercel.app/watch/what-is-machine-learning.html",
+   "minutes": 1
+  }
+ ],
+ "types-of-machine-learning": [
+  {
+   "title": "What Is Machine Learning?",
+   "url": "https://ai-in-motion.vercel.app/watch/what-is-machine-learning.html",
+   "minutes": 1
+  }
+ ],
+ "machine-learning-workflow": [
+  {
+   "title": "What Is Machine Learning?",
+   "url": "https://ai-in-motion.vercel.app/watch/what-is-machine-learning.html",
+   "minutes": 1
+  }
+ ],
+ "linear-regression-from-first-principles": [
+  {
+   "title": "Linear Regression, Visually",
+   "url": "https://ai-in-motion.vercel.app/watch/linear-regression.html",
+   "minutes": 1
+  }
+ ],
+ "regression-metrics": [
+  {
+   "title": "Linear Regression, Visually",
+   "url": "https://ai-in-motion.vercel.app/watch/linear-regression.html",
+   "minutes": 1
+  }
+ ],
+ "polynomial-regression-basis-functions": [
+  {
+   "title": "Linear Regression, Visually",
+   "url": "https://ai-in-motion.vercel.app/watch/linear-regression.html",
+   "minutes": 1
+  }
+ ],
+ "gradient-descent-theory": [
+  {
+   "title": "Gradient Descent and the Learning Rate",
+   "url": "https://ai-in-motion.vercel.app/watch/gradient-descent.html",
+   "minutes": 2
+  }
+ ],
+ "sgd-momentum-nesterov": [
+  {
+   "title": "Gradient Descent and the Learning Rate",
+   "url": "https://ai-in-motion.vercel.app/watch/gradient-descent.html",
+   "minutes": 2
+  },
+  {
+   "title": "Optimisers: SGD, Momentum and Adam",
+   "url": "https://ai-in-motion.vercel.app/watch/optimizers-sgd-momentum-adam.html",
+   "minutes": 1
+  }
+ ],
+ "adaptive-optimizers-adam-adamw": [
+  {
+   "title": "Gradient Descent and the Learning Rate",
+   "url": "https://ai-in-motion.vercel.app/watch/gradient-descent.html",
+   "minutes": 2
+  },
+  {
+   "title": "Optimisers: SGD, Momentum and Adam",
+   "url": "https://ai-in-motion.vercel.app/watch/optimizers-sgd-momentum-adam.html",
+   "minutes": 1
+  }
+ ],
+ "learning-rate-schedules-warmup": [
+  {
+   "title": "Gradient Descent and the Learning Rate",
+   "url": "https://ai-in-motion.vercel.app/watch/gradient-descent.html",
+   "minutes": 2
+  },
+  {
+   "title": "Optimisers: SGD, Momentum and Adam",
+   "url": "https://ai-in-motion.vercel.app/watch/optimizers-sgd-momentum-adam.html",
+   "minutes": 1
+  }
+ ],
+ "logistic-regression-explained": [
+  {
+   "title": "Linear Classifiers: Logistic Regression and the Perceptron",
+   "url": "https://ai-in-motion.vercel.app/watch/logistic-regression-and-the-perceptron.html",
+   "minutes": 1
+  }
+ ],
+ "the-perceptron": [
+  {
+   "title": "Linear Classifiers: Logistic Regression and the Perceptron",
+   "url": "https://ai-in-motion.vercel.app/watch/logistic-regression-and-the-perceptron.html",
+   "minutes": 1
+  },
+  {
+   "title": "Artificial Neurons and the Perceptron",
+   "url": "https://ai-in-motion.vercel.app/watch/artificial-neurons-and-the-perceptron.html",
+   "minutes": 1
+  }
+ ],
+ "softmax-regression-multiclass": [
+  {
+   "title": "Linear Classifiers: Logistic Regression and the Perceptron",
+   "url": "https://ai-in-motion.vercel.app/watch/logistic-regression-and-the-perceptron.html",
+   "minutes": 1
+  },
+  {
+   "title": "Image Classification End to End",
+   "url": "https://ai-in-motion.vercel.app/watch/image-classification.html",
+   "minutes": 1
+  }
+ ],
+ "k-nearest-neighbors": [
+  {
+   "title": "k-Nearest Neighbours: Learning by Similarity",
+   "url": "https://ai-in-motion.vercel.app/watch/k-nearest-neighbours.html",
+   "minutes": 1
+  }
+ ],
+ "feature-scaling-normalization": [
+  {
+   "title": "k-Nearest Neighbours: Learning by Similarity",
+   "url": "https://ai-in-motion.vercel.app/watch/k-nearest-neighbours.html",
+   "minutes": 1
+  }
+ ],
+ "decision-trees": [
+  {
+   "title": "Decision Trees and Random Forests",
+   "url": "https://ai-in-motion.vercel.app/watch/decision-trees-and-random-forests.html",
+   "minutes": 1
+  }
+ ],
+ "random-forests": [
+  {
+   "title": "Decision Trees and Random Forests",
+   "url": "https://ai-in-motion.vercel.app/watch/decision-trees-and-random-forests.html",
+   "minutes": 1
+  }
+ ],
+ "bagging-and-bootstrap": [
+  {
+   "title": "Decision Trees and Random Forests",
+   "url": "https://ai-in-motion.vercel.app/watch/decision-trees-and-random-forests.html",
+   "minutes": 1
+  }
+ ],
+ "gradient-boosting-machines": [
+  {
+   "title": "Decision Trees and Random Forests",
+   "url": "https://ai-in-motion.vercel.app/watch/decision-trees-and-random-forests.html",
+   "minutes": 1
+  }
+ ],
+ "support-vector-machines": [
+  {
+   "title": "Support Vector Machines and the Kernel Trick",
+   "url": "https://ai-in-motion.vercel.app/watch/support-vector-machines.html",
+   "minutes": 2
+  }
+ ],
+ "kernel-methods-kernel-trick": [
+  {
+   "title": "Support Vector Machines and the Kernel Trick",
+   "url": "https://ai-in-motion.vercel.app/watch/support-vector-machines.html",
+   "minutes": 2
+  }
+ ],
+ "k-means-clustering": [
+  {
+   "title": "k-Means Clustering, Step by Step",
+   "url": "https://ai-in-motion.vercel.app/watch/k-means-clustering.html",
+   "minutes": 1
+  }
+ ],
+ "hierarchical-clustering": [
+  {
+   "title": "k-Means Clustering, Step by Step",
+   "url": "https://ai-in-motion.vercel.app/watch/k-means-clustering.html",
+   "minutes": 1
+  }
+ ],
+ "dbscan-density-clustering": [
+  {
+   "title": "k-Means Clustering, Step by Step",
+   "url": "https://ai-in-motion.vercel.app/watch/k-means-clustering.html",
+   "minutes": 1
+  }
+ ],
+ "gaussian-mixture-models-em": [
+  {
+   "title": "k-Means Clustering, Step by Step",
+   "url": "https://ai-in-motion.vercel.app/watch/k-means-clustering.html",
+   "minutes": 1
+  }
+ ],
+ "principal-component-analysis": [
+  {
+   "title": "Principal Component Analysis (PCA)",
+   "url": "https://ai-in-motion.vercel.app/watch/principal-component-analysis.html",
+   "minutes": 1
+  }
+ ],
+ "eigenvalues-and-eigenvectors": [
+  {
+   "title": "Principal Component Analysis (PCA)",
+   "url": "https://ai-in-motion.vercel.app/watch/principal-component-analysis.html",
+   "minutes": 1
+  }
+ ],
+ "tsne-and-umap": [
+  {
+   "title": "Principal Component Analysis (PCA)",
+   "url": "https://ai-in-motion.vercel.app/watch/principal-component-analysis.html",
+   "minutes": 1
+  }
+ ],
+ "curse-of-dimensionality": [
+  {
+   "title": "Principal Component Analysis (PCA)",
+   "url": "https://ai-in-motion.vercel.app/watch/principal-component-analysis.html",
+   "minutes": 1
+  }
+ ],
+ "bias-variance-tradeoff": [
+  {
+   "title": "Overfitting, Underfitting and Bias–Variance",
+   "url": "https://ai-in-motion.vercel.app/watch/overfitting-and-bias-variance.html",
+   "minutes": 1
+  }
+ ],
+ "overfitting-underfitting-learning-curves": [
+  {
+   "title": "Overfitting, Underfitting and Bias–Variance",
+   "url": "https://ai-in-motion.vercel.app/watch/overfitting-and-bias-variance.html",
+   "minutes": 1
+  }
+ ],
+ "regularization-ridge-lasso-elastic-net": [
+  {
+   "title": "Overfitting, Underfitting and Bias–Variance",
+   "url": "https://ai-in-motion.vercel.app/watch/overfitting-and-bias-variance.html",
+   "minutes": 1
+  }
+ ],
+ "train-validation-test-cross-validation": [
+  {
+   "title": "Train/Test Splits and Cross-Validation",
+   "url": "https://ai-in-motion.vercel.app/watch/train-test-split-and-cross-validation.html",
+   "minutes": 2
+  }
+ ],
+ "hyperparameter-tuning": [
+  {
+   "title": "Train/Test Splits and Cross-Validation",
+   "url": "https://ai-in-motion.vercel.app/watch/train-test-split-and-cross-validation.html",
+   "minutes": 2
+  }
+ ],
+ "classification-metrics": [
+  {
+   "title": "Confusion Matrix, Precision, Recall and ROC",
+   "url": "https://ai-in-motion.vercel.app/watch/classification-metrics.html",
+   "minutes": 2
+  }
+ ],
+ "roc-auc-and-precision-recall-curves": [
+  {
+   "title": "Confusion Matrix, Precision, Recall and ROC",
+   "url": "https://ai-in-motion.vercel.app/watch/classification-metrics.html",
+   "minutes": 2
+  }
+ ],
+ "imbalanced-data-techniques": [
+  {
+   "title": "Confusion Matrix, Precision, Recall and ROC",
+   "url": "https://ai-in-motion.vercel.app/watch/classification-metrics.html",
+   "minutes": 2
+  }
+ ],
+ "from-neurons-to-neural-networks": [
+  {
+   "title": "Artificial Neurons and the Perceptron",
+   "url": "https://ai-in-motion.vercel.app/watch/artificial-neurons-and-the-perceptron.html",
+   "minutes": 1
+  },
+  {
+   "title": "Neural Networks: The Forward Pass",
+   "url": "https://ai-in-motion.vercel.app/watch/neural-networks-forward-pass.html",
+   "minutes": 2
+  }
+ ],
+ "multilayer-perceptrons-universal-approximation": [
+  {
+   "title": "Neural Networks: The Forward Pass",
+   "url": "https://ai-in-motion.vercel.app/watch/neural-networks-forward-pass.html",
+   "minutes": 2
+  }
+ ],
+ "activation-functions": [
+  {
+   "title": "Activation Functions: Sigmoid, Tanh and ReLU",
+   "url": "https://ai-in-motion.vercel.app/watch/activation-functions.html",
+   "minutes": 1
+  }
+ ],
+ "vanishing-exploding-gradients": [
+  {
+   "title": "Activation Functions: Sigmoid, Tanh and ReLU",
+   "url": "https://ai-in-motion.vercel.app/watch/activation-functions.html",
+   "minutes": 1
+  },
+  {
+   "title": "Vanishing Gradients and Residual Connections",
+   "url": "https://ai-in-motion.vercel.app/watch/vanishing-gradients-and-resnets.html",
+   "minutes": 1
+  }
+ ],
+ "loss-functions-deep-learning": [
+  {
+   "title": "Loss Functions and the Training Loop",
+   "url": "https://ai-in-motion.vercel.app/watch/loss-functions-and-the-training-loop.html",
+   "minutes": 2
+  }
+ ],
+ "pytorch-fundamentals": [
+  {
+   "title": "Loss Functions and the Training Loop",
+   "url": "https://ai-in-motion.vercel.app/watch/loss-functions-and-the-training-loop.html",
+   "minutes": 2
+  }
+ ],
+ "debugging-neural-network-training": [
+  {
+   "title": "Loss Functions and the Training Loop",
+   "url": "https://ai-in-motion.vercel.app/watch/loss-functions-and-the-training-loop.html",
+   "minutes": 2
+  }
+ ],
+ "backpropagation-derived": [
+  {
+   "title": "Backpropagation, Step by Step",
+   "url": "https://ai-in-motion.vercel.app/watch/backpropagation.html",
+   "minutes": 2
+  }
+ ],
+ "computational-graphs-autodiff": [
+  {
+   "title": "Backpropagation, Step by Step",
+   "url": "https://ai-in-motion.vercel.app/watch/backpropagation.html",
+   "minutes": 2
+  }
+ ],
+ "derivatives-gradients-chain-rule": [
+  {
+   "title": "Backpropagation, Step by Step",
+   "url": "https://ai-in-motion.vercel.app/watch/backpropagation.html",
+   "minutes": 2
+  }
+ ],
+ "loss-landscapes": [
+  {
+   "title": "Optimisers: SGD, Momentum and Adam",
+   "url": "https://ai-in-motion.vercel.app/watch/optimizers-sgd-momentum-adam.html",
+   "minutes": 1
+  }
+ ],
+ "residual-connections-resnet-idea": [
+  {
+   "title": "Vanishing Gradients and Residual Connections",
+   "url": "https://ai-in-motion.vercel.app/watch/vanishing-gradients-and-resnets.html",
+   "minutes": 1
+  }
+ ],
+ "weight-initialization": [
+  {
+   "title": "Vanishing Gradients and Residual Connections",
+   "url": "https://ai-in-motion.vercel.app/watch/vanishing-gradients-and-resnets.html",
+   "minutes": 1
+  }
+ ],
+ "batch-normalization": [
+  {
+   "title": "Vanishing Gradients and Residual Connections",
+   "url": "https://ai-in-motion.vercel.app/watch/vanishing-gradients-and-resnets.html",
+   "minutes": 1
+  }
+ ],
+ "dropout-regularization": [
+  {
+   "title": "Dropout and Regularisation",
+   "url": "https://ai-in-motion.vercel.app/watch/dropout-and-regularisation.html",
+   "minutes": 1
+  }
+ ],
+ "regularization-in-deep-learning": [
+  {
+   "title": "Dropout and Regularisation",
+   "url": "https://ai-in-motion.vercel.app/watch/dropout-and-regularisation.html",
+   "minutes": 1
+  },
+  {
+   "title": "Data Augmentation for Vision",
+   "url": "https://ai-in-motion.vercel.app/watch/data-augmentation.html",
+   "minutes": 1
+  }
+ ],
+ "data-augmentation-for-vision": [
+  {
+   "title": "Dropout and Regularisation",
+   "url": "https://ai-in-motion.vercel.app/watch/dropout-and-regularisation.html",
+   "minutes": 1
+  },
+  {
+   "title": "Data Augmentation for Vision",
+   "url": "https://ai-in-motion.vercel.app/watch/data-augmentation.html",
+   "minutes": 1
+  }
+ ],
+ "recurrent-neural-networks": [
+  {
+   "title": "Recurrent Networks and LSTMs",
+   "url": "https://ai-in-motion.vercel.app/watch/recurrent-networks-and-lstm.html",
+   "minutes": 2
+  }
+ ],
+ "lstm-networks": [
+  {
+   "title": "Recurrent Networks and LSTMs",
+   "url": "https://ai-in-motion.vercel.app/watch/recurrent-networks-and-lstm.html",
+   "minutes": 2
+  }
+ ],
+ "gru-gated-recurrent-units": [
+  {
+   "title": "Recurrent Networks and LSTMs",
+   "url": "https://ai-in-motion.vercel.app/watch/recurrent-networks-and-lstm.html",
+   "minutes": 2
+  }
+ ],
+ "sequence-to-sequence-models": [
+  {
+   "title": "Recurrent Networks and LSTMs",
+   "url": "https://ai-in-motion.vercel.app/watch/recurrent-networks-and-lstm.html",
+   "minutes": 2
+  }
+ ],
+ "embeddings-explained": [
+  {
+   "title": "Embeddings: Meaning as Vectors",
+   "url": "https://ai-in-motion.vercel.app/watch/embeddings-explained.html",
+   "minutes": 1
+  }
+ ],
+ "word2vec-word-embeddings": [
+  {
+   "title": "Embeddings: Meaning as Vectors",
+   "url": "https://ai-in-motion.vercel.app/watch/embeddings-explained.html",
+   "minutes": 1
+  }
+ ],
+ "semantic-search-information-retrieval": [
+  {
+   "title": "Embeddings: Meaning as Vectors",
+   "url": "https://ai-in-motion.vercel.app/watch/embeddings-explained.html",
+   "minutes": 1
+  }
+ ],
+ "autoencoders": [
+  {
+   "title": "Autoencoders: Compress and Reconstruct",
+   "url": "https://ai-in-motion.vercel.app/watch/autoencoders.html",
+   "minutes": 1
+  }
+ ],
+ "variational-autoencoders": [
+  {
+   "title": "Autoencoders: Compress and Reconstruct",
+   "url": "https://ai-in-motion.vercel.app/watch/autoencoders.html",
+   "minutes": 1
+  }
+ ],
+ "anomaly-detection": [
+  {
+   "title": "Autoencoders: Compress and Reconstruct",
+   "url": "https://ai-in-motion.vercel.app/watch/autoencoders.html",
+   "minutes": 1
+  }
+ ],
+ "generative-adversarial-networks": [
+  {
+   "title": "Generative Adversarial Networks (GANs)",
+   "url": "https://ai-in-motion.vercel.app/watch/generative-adversarial-networks.html",
+   "minutes": 1
+  }
+ ],
+ "gan-variants-stylegan-cyclegan": [
+  {
+   "title": "Generative Adversarial Networks (GANs)",
+   "url": "https://ai-in-motion.vercel.app/watch/generative-adversarial-networks.html",
+   "minutes": 1
+  }
+ ],
+ "generative-vs-discriminative-models": [
+  {
+   "title": "Generative Adversarial Networks (GANs)",
+   "url": "https://ai-in-motion.vercel.app/watch/generative-adversarial-networks.html",
+   "minutes": 1
+  }
+ ],
+ "introduction-to-computer-vision": [
+  {
+   "title": "How Computers See Images",
+   "url": "https://ai-in-motion.vercel.app/watch/how-computers-see-images.html",
+   "minutes": 2
+  }
+ ],
+ "image-processing-fundamentals": [
+  {
+   "title": "How Computers See Images",
+   "url": "https://ai-in-motion.vercel.app/watch/how-computers-see-images.html",
+   "minutes": 2
+  },
+  {
+   "title": "Convolution and Image Filters",
+   "url": "https://ai-in-motion.vercel.app/watch/convolution-and-image-filters.html",
+   "minutes": 2
+  },
+  {
+   "title": "Edge Detection with Sobel Filters",
+   "url": "https://ai-in-motion.vercel.app/watch/edge-detection.html",
+   "minutes": 1
+  }
+ ],
+ "convolutional-neural-networks-intro": [
+  {
+   "title": "Convolution and Image Filters",
+   "url": "https://ai-in-motion.vercel.app/watch/convolution-and-image-filters.html",
+   "minutes": 2
+  },
+  {
+   "title": "Convolutional Neural Networks",
+   "url": "https://ai-in-motion.vercel.app/watch/convolutional-neural-networks.html",
+   "minutes": 2
+  },
+  {
+   "title": "Pooling, Stride and Padding",
+   "url": "https://ai-in-motion.vercel.app/watch/pooling-stride-and-padding.html",
+   "minutes": 1
+  }
+ ],
+ "classical-features-sift-hog": [
+  {
+   "title": "Edge Detection with Sobel Filters",
+   "url": "https://ai-in-motion.vercel.app/watch/edge-detection.html",
+   "minutes": 1
+  }
+ ],
+ "lenet-and-alexnet": [
+  {
+   "title": "Convolutional Neural Networks",
+   "url": "https://ai-in-motion.vercel.app/watch/convolutional-neural-networks.html",
+   "minutes": 2
+  },
+  {
+   "title": "Landmark CNNs: From LeNet to ResNet",
+   "url": "https://ai-in-motion.vercel.app/watch/landmark-cnn-architectures.html",
+   "minutes": 2
+  }
+ ],
+ "explainability-for-vision-grad-cam": [
+  {
+   "title": "Convolutional Neural Networks",
+   "url": "https://ai-in-motion.vercel.app/watch/convolutional-neural-networks.html",
+   "minutes": 2
+  }
+ ],
+ "pooling-stride-padding": [
+  {
+   "title": "Pooling, Stride and Padding",
+   "url": "https://ai-in-motion.vercel.app/watch/pooling-stride-and-padding.html",
+   "minutes": 1
+  }
+ ],
+ "vgg-and-inception": [
+  {
+   "title": "Landmark CNNs: From LeNet to ResNet",
+   "url": "https://ai-in-motion.vercel.app/watch/landmark-cnn-architectures.html",
+   "minutes": 2
+  }
+ ],
+ "resnet-architecture": [
+  {
+   "title": "Landmark CNNs: From LeNet to ResNet",
+   "url": "https://ai-in-motion.vercel.app/watch/landmark-cnn-architectures.html",
+   "minutes": 2
+  }
+ ],
+ "efficientnet-and-model-scaling": [
+  {
+   "title": "Landmark CNNs: From LeNet to ResNet",
+   "url": "https://ai-in-motion.vercel.app/watch/landmark-cnn-architectures.html",
+   "minutes": 2
+  }
+ ],
+ "mobilenet-efficient-architectures": [
+  {
+   "title": "Landmark CNNs: From LeNet to ResNet",
+   "url": "https://ai-in-motion.vercel.app/watch/landmark-cnn-architectures.html",
+   "minutes": 2
+  }
+ ],
+ "image-classification-pipeline": [
+  {
+   "title": "Image Classification End to End",
+   "url": "https://ai-in-motion.vercel.app/watch/image-classification.html",
+   "minutes": 1
+  }
+ ],
+ "transfer-learning-fine-tuning": [
+  {
+   "title": "Image Classification End to End",
+   "url": "https://ai-in-motion.vercel.app/watch/image-classification.html",
+   "minutes": 1
+  },
+  {
+   "title": "Transfer Learning for Vision",
+   "url": "https://ai-in-motion.vercel.app/watch/transfer-learning-for-vision.html",
+   "minutes": 1
+  }
+ ],
+ "self-supervised-vision-simclr-dino-mae": [
+  {
+   "title": "Transfer Learning for Vision",
+   "url": "https://ai-in-motion.vercel.app/watch/transfer-learning-for-vision.html",
+   "minutes": 1
+  },
+  {
+   "title": "Vision Transformers: Images as Patches",
+   "url": "https://ai-in-motion.vercel.app/watch/vision-transformers.html",
+   "minutes": 2
+  }
+ ],
+ "clip-vision-language": [
+  {
+   "title": "Transfer Learning for Vision",
+   "url": "https://ai-in-motion.vercel.app/watch/transfer-learning-for-vision.html",
+   "minutes": 1
+  },
+  {
+   "title": "Vision Transformers: Images as Patches",
+   "url": "https://ai-in-motion.vercel.app/watch/vision-transformers.html",
+   "minutes": 2
+  }
+ ],
+ "yolo-real-time-detection": [
+  {
+   "title": "Object Detection: Boxes, IoU and NMS",
+   "url": "https://ai-in-motion.vercel.app/watch/object-detection.html",
+   "minutes": 2
+  }
+ ],
+ "object-detection-rcnn-family": [
+  {
+   "title": "Object Detection: Boxes, IoU and NMS",
+   "url": "https://ai-in-motion.vercel.app/watch/object-detection.html",
+   "minutes": 2
+  }
+ ],
+ "ssd-retinanet-focal-loss": [
+  {
+   "title": "Object Detection: Boxes, IoU and NMS",
+   "url": "https://ai-in-motion.vercel.app/watch/object-detection.html",
+   "minutes": 2
+  }
+ ],
+ "semantic-segmentation-fcn-unet": [
+  {
+   "title": "Image Segmentation: Every Pixel Labelled",
+   "url": "https://ai-in-motion.vercel.app/watch/image-segmentation.html",
+   "minutes": 1
+  }
+ ],
+ "instance-segmentation-mask-rcnn": [
+  {
+   "title": "Image Segmentation: Every Pixel Labelled",
+   "url": "https://ai-in-motion.vercel.app/watch/image-segmentation.html",
+   "minutes": 1
+  }
+ ],
+ "segment-anything-vision-foundation-models": [
+  {
+   "title": "Image Segmentation: Every Pixel Labelled",
+   "url": "https://ai-in-motion.vercel.app/watch/image-segmentation.html",
+   "minutes": 1
+  }
+ ],
+ "medical-imaging-ai": [
+  {
+   "title": "Image Segmentation: Every Pixel Labelled",
+   "url": "https://ai-in-motion.vercel.app/watch/image-segmentation.html",
+   "minutes": 1
+  }
+ ],
+ "vision-transformers": [
+  {
+   "title": "Vision Transformers: Images as Patches",
+   "url": "https://ai-in-motion.vercel.app/watch/vision-transformers.html",
+   "minutes": 2
+  }
+ ],
+ "multimodal-models": [
+  {
+   "title": "Vision Transformers: Images as Patches",
+   "url": "https://ai-in-motion.vercel.app/watch/vision-transformers.html",
+   "minutes": 2
+  }
+ ],
+ "human-pose-estimation": [
+  {
+   "title": "Human Pose Estimation",
+   "url": "https://ai-in-motion.vercel.app/watch/pose-estimation.html",
+   "minutes": 1
+  }
+ ],
+ "video-understanding": [
+  {
+   "title": "Human Pose Estimation",
+   "url": "https://ai-in-motion.vercel.app/watch/pose-estimation.html",
+   "minutes": 1
+  }
+ ]
+}

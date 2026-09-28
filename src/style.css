@@ -343,3 +343,12 @@ h1, h2, h3, h4 { font-family: var(--display); color: var(--text-strong); line-he
 .to-top.show { opacity: 1; pointer-events: auto; transform: none; }
 .reveal { opacity: 0; transform: translateY(18px); transition: opacity .6s ease, transform .6s ease; }
 .reveal.in { opacity: 1; transform: none; }
+
+/* Animated companion lesson (AI in Motion) */
+.anim-box { display: flex; gap: 16px; align-items: flex-start; margin: 0 0 1.8em; padding: 18px 20px; border-radius: 16px; background: linear-gradient(135deg, rgba(34,211,238,.12), rgba(167,139,250,.14) 55%, rgba(244,114,182,.12)); border: 1px solid rgba(167,139,250,.45); }
+.anim-ic { flex: none; display: grid; place-items: center; width: 44px; height: 44px; border-radius: 12px; background: linear-gradient(135deg, #22d3ee, #a78bfa, #f472b6); color: #060a17; font-size: 18px; padding-left: 3px; box-shadow: 0 0 22px rgba(167,139,250,.55); }
+.anim-kicker { font-size: .72rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; opacity: .75; margin-bottom: 4px; }
+.anim-box a { display: block; font-weight: 700; text-decoration: none; margin: 2px 0; }
+.anim-box a:hover { text-decoration: underline; }
+.anim-box a span { font-weight: 500; opacity: .75; }
+.anim-box small { display: block; margin-top: 6px; opacity: .75; }
