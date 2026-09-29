@@ -46,12 +46,22 @@
    "title": "Intelligent Agents: Perceive, Decide, Act",
    "url": "https://ai-in-motion.vercel.app/watch/intelligent-agents.html",
    "minutes": 1
+  },
+  {
+   "title": "AI Agents and Tool Use",
+   "url": "https://ai-in-motion.vercel.app/watch/ai-agents-and-tool-use.html",
+   "minutes": 1
   }
  ],
  "ai-agents-tool-use": [
   {
    "title": "Intelligent Agents: Perceive, Decide, Act",
    "url": "https://ai-in-motion.vercel.app/watch/intelligent-agents.html",
+   "minutes": 1
+  },
+  {
+   "title": "AI Agents and Tool Use",
+   "url": "https://ai-in-motion.vercel.app/watch/ai-agents-and-tool-use.html",
    "minutes": 1
   }
  ],
@@ -147,6 +157,11 @@
    "title": "How Large Language Models Work",
    "url": "https://ai-in-motion.vercel.app/watch/how-large-language-models-work.html",
    "minutes": 2
+  },
+  {
+   "title": "Decoding: Temperature, Top-k and Top-p",
+   "url": "https://ai-in-motion.vercel.app/watch/decoding-temperature-and-top-p.html",
+   "minutes": 2
   }
  ],
  "gpt-family-autoregressive-models": [
@@ -154,12 +169,22 @@
    "title": "How Large Language Models Work",
    "url": "https://ai-in-motion.vercel.app/watch/how-large-language-models-work.html",
    "minutes": 2
+  },
+  {
+   "title": "BERT and GPT: Two Kinds of Language Models",
+   "url": "https://ai-in-motion.vercel.app/watch/bert-and-gpt.html",
+   "minutes": 1
   }
  ],
  "decoding-strategies-sampling": [
   {
    "title": "How Large Language Models Work",
    "url": "https://ai-in-motion.vercel.app/watch/how-large-language-models-work.html",
+   "minutes": 2
+  },
+  {
+   "title": "Decoding: Temperature, Top-k and Top-p",
+   "url": "https://ai-in-motion.vercel.app/watch/decoding-temperature-and-top-p.html",
    "minutes": 2
   }
  ],
@@ -175,6 +200,11 @@
    "title": "Attention and Transformers",
    "url": "https://ai-in-motion.vercel.app/watch/attention-and-transformers.html",
    "minutes": 2
+  },
+  {
+   "title": "Sequence-to-Sequence Models and Translation",
+   "url": "https://ai-in-motion.vercel.app/watch/sequence-to-sequence-translation.html",
+   "minutes": 1
   }
  ],
  "self-attention-in-depth": [
@@ -189,12 +219,27 @@
    "title": "Attention and Transformers",
    "url": "https://ai-in-motion.vercel.app/watch/attention-and-transformers.html",
    "minutes": 2
+  },
+  {
+   "title": "Positional Encoding: Teaching Transformers Word Order",
+   "url": "https://ai-in-motion.vercel.app/watch/positional-encoding.html",
+   "minutes": 1
   }
  ],
  "diffusion-models": [
   {
    "title": "How AI Image Generators Work",
    "url": "https://ai-in-motion.vercel.app/watch/how-image-generators-work.html",
+   "minutes": 1
+  },
+  {
+   "title": "Diffusion Models in Depth",
+   "url": "https://ai-in-motion.vercel.app/watch/diffusion-models-in-depth.html",
+   "minutes": 2
+  },
+  {
+   "title": "Classifier-Free Guidance",
+   "url": "https://ai-in-motion.vercel.app/watch/classifier-free-guidance.html",
    "minutes": 1
   }
  ],
@@ -203,6 +248,16 @@
    "title": "How AI Image Generators Work",
    "url": "https://ai-in-motion.vercel.app/watch/how-image-generators-work.html",
    "minutes": 1
+  },
+  {
+   "title": "Variational Autoencoders",
+   "url": "https://ai-in-motion.vercel.app/watch/variational-autoencoders.html",
+   "minutes": 1
+  },
+  {
+   "title": "Diffusion Models in Depth",
+   "url": "https://ai-in-motion.vercel.app/watch/diffusion-models-in-depth.html",
+   "minutes": 2
   }
  ],
  "text-to-image-and-video-generation": [
@@ -210,6 +265,11 @@
    "title": "How AI Image Generators Work",
    "url": "https://ai-in-motion.vercel.app/watch/how-image-generators-work.html",
    "minutes": 1
+  },
+  {
+   "title": "Diffusion Models in Depth",
+   "url": "https://ai-in-motion.vercel.app/watch/diffusion-models-in-depth.html",
+   "minutes": 2
   }
  ],
  "what-is-machine-learning": [
@@ -661,12 +721,22 @@
    "title": "Recurrent Networks and LSTMs",
    "url": "https://ai-in-motion.vercel.app/watch/recurrent-networks-and-lstm.html",
    "minutes": 2
+  },
+  {
+   "title": "Sequence-to-Sequence Models and Translation",
+   "url": "https://ai-in-motion.vercel.app/watch/sequence-to-sequence-translation.html",
+   "minutes": 1
   }
  ],
  "embeddings-explained": [
   {
    "title": "Embeddings: Meaning as Vectors",
    "url": "https://ai-in-motion.vercel.app/watch/embeddings-explained.html",
+   "minutes": 1
+  },
+  {
+   "title": "Word2vec and Word Embeddings",
+   "url": "https://ai-in-motion.vercel.app/watch/word2vec-and-word-embeddings.html",
    "minutes": 1
   }
  ],
@@ -675,12 +745,22 @@
    "title": "Embeddings: Meaning as Vectors",
    "url": "https://ai-in-motion.vercel.app/watch/embeddings-explained.html",
    "minutes": 1
+  },
+  {
+   "title": "Word2vec and Word Embeddings",
+   "url": "https://ai-in-motion.vercel.app/watch/word2vec-and-word-embeddings.html",
+   "minutes": 1
   }
  ],
  "semantic-search-information-retrieval": [
   {
    "title": "Embeddings: Meaning as Vectors",
    "url": "https://ai-in-motion.vercel.app/watch/embeddings-explained.html",
+   "minutes": 1
+  },
+  {
+   "title": "Semantic Search with Embeddings",
+   "url": "https://ai-in-motion.vercel.app/watch/semantic-search.html",
    "minutes": 1
   }
  ],
@@ -689,12 +769,27 @@
    "title": "Autoencoders: Compress and Reconstruct",
    "url": "https://ai-in-motion.vercel.app/watch/autoencoders.html",
    "minutes": 1
+  },
+  {
+   "title": "Variational Autoencoders",
+   "url": "https://ai-in-motion.vercel.app/watch/variational-autoencoders.html",
+   "minutes": 1
   }
  ],
  "variational-autoencoders": [
   {
    "title": "Autoencoders: Compress and Reconstruct",
    "url": "https://ai-in-motion.vercel.app/watch/autoencoders.html",
+   "minutes": 1
+  },
+  {
+   "title": "Generative vs Discriminative Models",
+   "url": "https://ai-in-motion.vercel.app/watch/generative-vs-discriminative-models.html",
+   "minutes": 1
+  },
+  {
+   "title": "Variational Autoencoders",
+   "url": "https://ai-in-motion.vercel.app/watch/variational-autoencoders.html",
    "minutes": 1
   }
  ],
@@ -710,6 +805,11 @@
    "title": "Generative Adversarial Networks (GANs)",
    "url": "https://ai-in-motion.vercel.app/watch/generative-adversarial-networks.html",
    "minutes": 1
+  },
+  {
+   "title": "Generative vs Discriminative Models",
+   "url": "https://ai-in-motion.vercel.app/watch/generative-vs-discriminative-models.html",
+   "minutes": 1
   }
  ],
  "gan-variants-stylegan-cyclegan": [
@@ -723,6 +823,11 @@
   {
    "title": "Generative Adversarial Networks (GANs)",
    "url": "https://ai-in-motion.vercel.app/watch/generative-adversarial-networks.html",
+   "minutes": 1
+  },
+  {
+   "title": "Generative vs Discriminative Models",
+   "url": "https://ai-in-motion.vercel.app/watch/generative-vs-discriminative-models.html",
    "minutes": 1
   }
  ],
@@ -869,6 +974,11 @@
    "title": "Vision Transformers: Images as Patches",
    "url": "https://ai-in-motion.vercel.app/watch/vision-transformers.html",
    "minutes": 2
+  },
+  {
+   "title": "Multimodal Models and CLIP",
+   "url": "https://ai-in-motion.vercel.app/watch/multimodal-models-and-clip.html",
+   "minutes": 1
   }
  ],
  "yolo-real-time-detection": [
@@ -925,6 +1035,11 @@
    "title": "Vision Transformers: Images as Patches",
    "url": "https://ai-in-motion.vercel.app/watch/vision-transformers.html",
    "minutes": 2
+  },
+  {
+   "title": "Multimodal Models and CLIP",
+   "url": "https://ai-in-motion.vercel.app/watch/multimodal-models-and-clip.html",
+   "minutes": 1
   }
  ],
  "multimodal-models": [
@@ -932,6 +1047,11 @@
    "title": "Vision Transformers: Images as Patches",
    "url": "https://ai-in-motion.vercel.app/watch/vision-transformers.html",
    "minutes": 2
+  },
+  {
+   "title": "Multimodal Models and CLIP",
+   "url": "https://ai-in-motion.vercel.app/watch/multimodal-models-and-clip.html",
+   "minutes": 1
   }
  ],
  "human-pose-estimation": [
@@ -945,6 +1065,314 @@
   {
    "title": "Human Pose Estimation",
    "url": "https://ai-in-motion.vercel.app/watch/pose-estimation.html",
+   "minutes": 1
+  }
+ ],
+ "introduction-to-nlp": [
+  {
+   "title": "What Is Natural Language Processing?",
+   "url": "https://ai-in-motion.vercel.app/watch/what-is-nlp.html",
+   "minutes": 1
+  }
+ ],
+ "text-preprocessing-tokenization": [
+  {
+   "title": "What Is Natural Language Processing?",
+   "url": "https://ai-in-motion.vercel.app/watch/what-is-nlp.html",
+   "minutes": 1
+  },
+  {
+   "title": "Tokenization and Byte-Pair Encoding",
+   "url": "https://ai-in-motion.vercel.app/watch/tokenization-and-subwords.html",
+   "minutes": 2
+  }
+ ],
+ "subword-tokenization-bpe-wordpiece": [
+  {
+   "title": "Tokenization and Byte-Pair Encoding",
+   "url": "https://ai-in-motion.vercel.app/watch/tokenization-and-subwords.html",
+   "minutes": 2
+  }
+ ],
+ "bag-of-words-tf-idf": [
+  {
+   "title": "Bag of Words and TF-IDF",
+   "url": "https://ai-in-motion.vercel.app/watch/bag-of-words-and-tf-idf.html",
+   "minutes": 1
+  }
+ ],
+ "text-classification": [
+  {
+   "title": "Bag of Words and TF-IDF",
+   "url": "https://ai-in-motion.vercel.app/watch/bag-of-words-and-tf-idf.html",
+   "minutes": 1
+  },
+  {
+   "title": "Sentiment Analysis and Text Classification",
+   "url": "https://ai-in-motion.vercel.app/watch/sentiment-and-text-classification.html",
+   "minutes": 1
+  }
+ ],
+ "n-gram-language-models": [
+  {
+   "title": "N-gram Language Models",
+   "url": "https://ai-in-motion.vercel.app/watch/n-gram-language-models.html",
+   "minutes": 1
+  }
+ ],
+ "nlp-evaluation-metrics": [
+  {
+   "title": "N-gram Language Models",
+   "url": "https://ai-in-motion.vercel.app/watch/n-gram-language-models.html",
+   "minutes": 1
+  }
+ ],
+ "glove-fasttext-embeddings": [
+  {
+   "title": "Word2vec and Word Embeddings",
+   "url": "https://ai-in-motion.vercel.app/watch/word2vec-and-word-embeddings.html",
+   "minutes": 1
+  }
+ ],
+ "sentiment-analysis": [
+  {
+   "title": "Sentiment Analysis and Text Classification",
+   "url": "https://ai-in-motion.vercel.app/watch/sentiment-and-text-classification.html",
+   "minutes": 1
+  }
+ ],
+ "fine-tuning-pretrained-language-models": [
+  {
+   "title": "Sentiment Analysis and Text Classification",
+   "url": "https://ai-in-motion.vercel.app/watch/sentiment-and-text-classification.html",
+   "minutes": 1
+  },
+  {
+   "title": "LoRA and Parameter-Efficient Fine-Tuning",
+   "url": "https://ai-in-motion.vercel.app/watch/lora-and-parameter-efficient-fine-tuning.html",
+   "minutes": 1
+  }
+ ],
+ "named-entity-recognition": [
+  {
+   "title": "Named Entity Recognition",
+   "url": "https://ai-in-motion.vercel.app/watch/named-entity-recognition.html",
+   "minutes": 1
+  }
+ ],
+ "pos-tagging-and-crf": [
+  {
+   "title": "Named Entity Recognition",
+   "url": "https://ai-in-motion.vercel.app/watch/named-entity-recognition.html",
+   "minutes": 1
+  }
+ ],
+ "neural-machine-translation": [
+  {
+   "title": "Sequence-to-Sequence Models and Translation",
+   "url": "https://ai-in-motion.vercel.app/watch/sequence-to-sequence-translation.html",
+   "minutes": 1
+  }
+ ],
+ "positional-encodings-rope-alibi": [
+  {
+   "title": "Positional Encoding: Teaching Transformers Word Order",
+   "url": "https://ai-in-motion.vercel.app/watch/positional-encoding.html",
+   "minutes": 1
+  }
+ ],
+ "efficient-transformers-long-context": [
+  {
+   "title": "Positional Encoding: Teaching Transformers Word Order",
+   "url": "https://ai-in-motion.vercel.app/watch/positional-encoding.html",
+   "minutes": 1
+  }
+ ],
+ "bert-explained": [
+  {
+   "title": "BERT and GPT: Two Kinds of Language Models",
+   "url": "https://ai-in-motion.vercel.app/watch/bert-and-gpt.html",
+   "minutes": 1
+  }
+ ],
+ "t5-encoder-decoder-models": [
+  {
+   "title": "BERT and GPT: Two Kinds of Language Models",
+   "url": "https://ai-in-motion.vercel.app/watch/bert-and-gpt.html",
+   "minutes": 1
+  }
+ ],
+ "vector-databases": [
+  {
+   "title": "Semantic Search with Embeddings",
+   "url": "https://ai-in-motion.vercel.app/watch/semantic-search.html",
+   "minutes": 1
+  },
+  {
+   "title": "Retrieval-Augmented Generation (RAG)",
+   "url": "https://ai-in-motion.vercel.app/watch/retrieval-augmented-generation.html",
+   "minutes": 1
+  }
+ ],
+ "question-answering-systems": [
+  {
+   "title": "Semantic Search with Embeddings",
+   "url": "https://ai-in-motion.vercel.app/watch/semantic-search.html",
+   "minutes": 1
+  }
+ ],
+ "automatic-speech-recognition": [
+  {
+   "title": "Speech Recognition: From Sound to Text",
+   "url": "https://ai-in-motion.vercel.app/watch/speech-recognition.html",
+   "minutes": 1
+  }
+ ],
+ "text-to-speech-synthesis": [
+  {
+   "title": "Speech Recognition: From Sound to Text",
+   "url": "https://ai-in-motion.vercel.app/watch/speech-recognition.html",
+   "minutes": 1
+  }
+ ],
+ "multilingual-low-resource-nlp": [
+  {
+   "title": "Speech Recognition: From Sound to Text",
+   "url": "https://ai-in-motion.vercel.app/watch/speech-recognition.html",
+   "minutes": 1
+  }
+ ],
+ "classifier-free-guidance": [
+  {
+   "title": "Classifier-Free Guidance",
+   "url": "https://ai-in-motion.vercel.app/watch/classifier-free-guidance.html",
+   "minutes": 1
+  }
+ ],
+ "pretraining-llms-data-and-objectives": [
+  {
+   "title": "How Large Language Models Are Trained",
+   "url": "https://ai-in-motion.vercel.app/watch/how-llms-are-trained.html",
+   "minutes": 1
+  }
+ ],
+ "instruction-tuning": [
+  {
+   "title": "How Large Language Models Are Trained",
+   "url": "https://ai-in-motion.vercel.app/watch/how-llms-are-trained.html",
+   "minutes": 1
+  }
+ ],
+ "rlhf-reinforcement-learning-human-feedback": [
+  {
+   "title": "How Large Language Models Are Trained",
+   "url": "https://ai-in-motion.vercel.app/watch/how-llms-are-trained.html",
+   "minutes": 1
+  }
+ ],
+ "scaling-laws": [
+  {
+   "title": "How Large Language Models Are Trained",
+   "url": "https://ai-in-motion.vercel.app/watch/how-llms-are-trained.html",
+   "minutes": 1
+  }
+ ],
+ "dpo-preference-optimization": [
+  {
+   "title": "How Large Language Models Are Trained",
+   "url": "https://ai-in-motion.vercel.app/watch/how-llms-are-trained.html",
+   "minutes": 1
+  }
+ ],
+ "prompt-engineering": [
+  {
+   "title": "Prompt Engineering and Chain-of-Thought",
+   "url": "https://ai-in-motion.vercel.app/watch/prompt-engineering-and-chain-of-thought.html",
+   "minutes": 1
+  }
+ ],
+ "chain-of-thought-reasoning": [
+  {
+   "title": "Prompt Engineering and Chain-of-Thought",
+   "url": "https://ai-in-motion.vercel.app/watch/prompt-engineering-and-chain-of-thought.html",
+   "minutes": 1
+  }
+ ],
+ "in-context-learning": [
+  {
+   "title": "Prompt Engineering and Chain-of-Thought",
+   "url": "https://ai-in-motion.vercel.app/watch/prompt-engineering-and-chain-of-thought.html",
+   "minutes": 1
+  }
+ ],
+ "retrieval-augmented-generation": [
+  {
+   "title": "Retrieval-Augmented Generation (RAG)",
+   "url": "https://ai-in-motion.vercel.app/watch/retrieval-augmented-generation.html",
+   "minutes": 1
+  }
+ ],
+ "building-llm-applications-end-to-end": [
+  {
+   "title": "Retrieval-Augmented Generation (RAG)",
+   "url": "https://ai-in-motion.vercel.app/watch/retrieval-augmented-generation.html",
+   "minutes": 1
+  },
+  {
+   "title": "AI Agents and Tool Use",
+   "url": "https://ai-in-motion.vercel.app/watch/ai-agents-and-tool-use.html",
+   "minutes": 1
+  }
+ ],
+ "lora-and-parameter-efficient-fine-tuning": [
+  {
+   "title": "LoRA and Parameter-Efficient Fine-Tuning",
+   "url": "https://ai-in-motion.vercel.app/watch/lora-and-parameter-efficient-fine-tuning.html",
+   "minutes": 1
+  }
+ ],
+ "llm-quantization": [
+  {
+   "title": "LoRA and Parameter-Efficient Fine-Tuning",
+   "url": "https://ai-in-motion.vercel.app/watch/lora-and-parameter-efficient-fine-tuning.html",
+   "minutes": 1
+  },
+  {
+   "title": "Quantisation: Smaller, Faster Models",
+   "url": "https://ai-in-motion.vercel.app/watch/quantization.html",
+   "minutes": 1
+  }
+ ],
+ "llm-inference-optimization": [
+  {
+   "title": "Quantisation: Smaller, Faster Models",
+   "url": "https://ai-in-motion.vercel.app/watch/quantization.html",
+   "minutes": 1
+  },
+  {
+   "title": "Mixture of Experts",
+   "url": "https://ai-in-motion.vercel.app/watch/mixture-of-experts.html",
+   "minutes": 1
+  }
+ ],
+ "pruning-and-quantization": [
+  {
+   "title": "Quantisation: Smaller, Faster Models",
+   "url": "https://ai-in-motion.vercel.app/watch/quantization.html",
+   "minutes": 1
+  }
+ ],
+ "mixture-of-experts": [
+  {
+   "title": "Mixture of Experts",
+   "url": "https://ai-in-motion.vercel.app/watch/mixture-of-experts.html",
+   "minutes": 1
+  }
+ ],
+ "distributed-training": [
+  {
+   "title": "Mixture of Experts",
+   "url": "https://ai-in-motion.vercel.app/watch/mixture-of-experts.html",
    "minutes": 1
   }
  ]
