@@ -63,6 +63,11 @@
    "title": "AI Agents and Tool Use",
    "url": "https://ai-in-motion.vercel.app/watch/ai-agents-and-tool-use.html",
    "minutes": 1
+  },
+  {
+   "title": "Building with LLMs: Prompting, RAG and Agents",
+   "url": "https://ai-in-motion.vercel.app/watch/building-llm-applications.html",
+   "minutes": 11
   }
  ],
  "uninformed-search-strategies": [
@@ -75,6 +80,11 @@
    "title": "A* Search: Smarter Pathfinding",
    "url": "https://ai-in-motion.vercel.app/watch/a-star-search.html",
    "minutes": 2
+  },
+  {
+   "title": "Search and Problem Solving: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/search-and-problem-solving-deep-dive.html",
+   "minutes": 12
   }
  ],
  "informed-search-a-star": [
@@ -82,6 +92,11 @@
    "title": "A* Search: Smarter Pathfinding",
    "url": "https://ai-in-motion.vercel.app/watch/a-star-search.html",
    "minutes": 2
+  },
+  {
+   "title": "Search and Problem Solving: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/search-and-problem-solving-deep-dive.html",
+   "minutes": 12
   }
  ],
  "adversarial-search-minimax-alpha-beta": [
@@ -89,6 +104,11 @@
    "title": "Minimax and Alpha–Beta Pruning",
    "url": "https://ai-in-motion.vercel.app/watch/minimax-and-alpha-beta.html",
    "minutes": 2
+  },
+  {
+   "title": "Game-Playing AI: From Minimax to AlphaZero",
+   "url": "https://ai-in-motion.vercel.app/watch/game-playing-ai-deep-dive.html",
+   "minutes": 11
   }
  ],
  "monte-carlo-tree-search": [
@@ -96,6 +116,16 @@
    "title": "Minimax and Alpha–Beta Pruning",
    "url": "https://ai-in-motion.vercel.app/watch/minimax-and-alpha-beta.html",
    "minutes": 2
+  },
+  {
+   "title": "Game-Playing AI: From Minimax to AlphaZero",
+   "url": "https://ai-in-motion.vercel.app/watch/game-playing-ai-deep-dive.html",
+   "minutes": 11
+  },
+  {
+   "title": "Exploration and Multi-Armed Bandits",
+   "url": "https://ai-in-motion.vercel.app/watch/exploration-and-multi-armed-bandits.html",
+   "minutes": 11
   }
  ],
  "alphago-alphazero": [
@@ -103,6 +133,11 @@
    "title": "Minimax and Alpha–Beta Pruning",
    "url": "https://ai-in-motion.vercel.app/watch/minimax-and-alpha-beta.html",
    "minutes": 2
+  },
+  {
+   "title": "Game-Playing AI: From Minimax to AlphaZero",
+   "url": "https://ai-in-motion.vercel.app/watch/game-playing-ai-deep-dive.html",
+   "minutes": 11
   }
  ],
  "local-search-hill-climbing-simulated-annealing": [
@@ -110,6 +145,11 @@
    "title": "Hill Climbing and Simulated Annealing",
    "url": "https://ai-in-motion.vercel.app/watch/hill-climbing-and-simulated-annealing.html",
    "minutes": 2
+  },
+  {
+   "title": "Search and Problem Solving: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/search-and-problem-solving-deep-dive.html",
+   "minutes": 12
   }
  ],
  "genetic-algorithms-evolutionary-computation": [
@@ -136,6 +176,11 @@
    "title": "Bayes’ Theorem: Reasoning Under Uncertainty",
    "url": "https://ai-in-motion.vercel.app/watch/bayes-theorem.html",
    "minutes": 1
+  },
+  {
+   "title": "Likelihood, Bayes and Information Theory",
+   "url": "https://ai-in-motion.vercel.app/watch/statistics-and-information-theory.html",
+   "minutes": 11
   }
  ],
  "bayesian-networks": [
@@ -162,6 +207,11 @@
    "title": "Decoding: Temperature, Top-k and Top-p",
    "url": "https://ai-in-motion.vercel.app/watch/decoding-temperature-and-top-p.html",
    "minutes": 2
+  },
+  {
+   "title": "Inside a Large Language Model",
+   "url": "https://ai-in-motion.vercel.app/watch/inside-a-large-language-model.html",
+   "minutes": 11
   }
  ],
  "gpt-family-autoregressive-models": [
@@ -174,6 +224,11 @@
    "title": "BERT and GPT: Two Kinds of Language Models",
    "url": "https://ai-in-motion.vercel.app/watch/bert-and-gpt.html",
    "minutes": 1
+  },
+  {
+   "title": "Inside a Large Language Model",
+   "url": "https://ai-in-motion.vercel.app/watch/inside-a-large-language-model.html",
+   "minutes": 11
   }
  ],
  "decoding-strategies-sampling": [
@@ -186,6 +241,11 @@
    "title": "Decoding: Temperature, Top-k and Top-p",
    "url": "https://ai-in-motion.vercel.app/watch/decoding-temperature-and-top-p.html",
    "minutes": 2
+  },
+  {
+   "title": "LLM Inference Engineering",
+   "url": "https://ai-in-motion.vercel.app/watch/llm-inference-engineering.html",
+   "minutes": 11
   }
  ],
  "llm-hallucination": [
@@ -202,9 +262,19 @@
    "minutes": 2
   },
   {
+   "title": "From RNNs to Transformers: Sequence Models in Depth",
+   "url": "https://ai-in-motion.vercel.app/watch/from-rnns-to-transformers-deep-dive.html",
+   "minutes": 11
+  },
+  {
    "title": "Sequence-to-Sequence Models and Translation",
    "url": "https://ai-in-motion.vercel.app/watch/sequence-to-sequence-translation.html",
    "minutes": 1
+  },
+  {
+   "title": "The Attention Mechanism in Depth",
+   "url": "https://ai-in-motion.vercel.app/watch/attention-mechanism-deep-dive.html",
+   "minutes": 11
   }
  ],
  "self-attention-in-depth": [
@@ -212,6 +282,11 @@
    "title": "Attention and Transformers",
    "url": "https://ai-in-motion.vercel.app/watch/attention-and-transformers.html",
    "minutes": 2
+  },
+  {
+   "title": "The Attention Mechanism in Depth",
+   "url": "https://ai-in-motion.vercel.app/watch/attention-mechanism-deep-dive.html",
+   "minutes": 11
   }
  ],
  "transformer-architecture-explained": [
@@ -221,9 +296,19 @@
    "minutes": 2
   },
   {
+   "title": "From RNNs to Transformers: Sequence Models in Depth",
+   "url": "https://ai-in-motion.vercel.app/watch/from-rnns-to-transformers-deep-dive.html",
+   "minutes": 11
+  },
+  {
    "title": "Positional Encoding: Teaching Transformers Word Order",
    "url": "https://ai-in-motion.vercel.app/watch/positional-encoding.html",
    "minutes": 1
+  },
+  {
+   "title": "Inside a Large Language Model",
+   "url": "https://ai-in-motion.vercel.app/watch/inside-a-large-language-model.html",
+   "minutes": 11
   }
  ],
  "diffusion-models": [
@@ -241,6 +326,11 @@
    "title": "Classifier-Free Guidance",
    "url": "https://ai-in-motion.vercel.app/watch/classifier-free-guidance.html",
    "minutes": 1
+  },
+  {
+   "title": "Diffusion Models: The Complete Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/diffusion-models-complete-deep-dive.html",
+   "minutes": 11
   }
  ],
  "latent-diffusion-stable-diffusion": [
@@ -258,6 +348,11 @@
    "title": "Diffusion Models in Depth",
    "url": "https://ai-in-motion.vercel.app/watch/diffusion-models-in-depth.html",
    "minutes": 2
+  },
+  {
+   "title": "Diffusion Models: The Complete Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/diffusion-models-complete-deep-dive.html",
+   "minutes": 11
   }
  ],
  "text-to-image-and-video-generation": [
@@ -270,6 +365,18 @@
    "title": "Diffusion Models in Depth",
    "url": "https://ai-in-motion.vercel.app/watch/diffusion-models-in-depth.html",
    "minutes": 2
+  },
+  {
+   "title": "Diffusion Models: The Complete Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/diffusion-models-complete-deep-dive.html",
+   "minutes": 11
+  }
+ ],
+ "constraint-satisfaction-problems": [
+  {
+   "title": "Search and Problem Solving: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/search-and-problem-solving-deep-dive.html",
+   "minutes": 12
   }
  ],
  "what-is-machine-learning": [
@@ -291,6 +398,11 @@
    "title": "What Is Machine Learning?",
    "url": "https://ai-in-motion.vercel.app/watch/what-is-machine-learning.html",
    "minutes": 1
+  },
+  {
+   "title": "What is MLOps? The Machine Learning Lifecycle",
+   "url": "https://ai-in-motion.vercel.app/watch/what-is-mlops-and-the-ml-lifecycle.html",
+   "minutes": 11
   }
  ],
  "linear-regression-from-first-principles": [
@@ -305,6 +417,11 @@
    "title": "Linear Regression, Visually",
    "url": "https://ai-in-motion.vercel.app/watch/linear-regression.html",
    "minutes": 1
+  },
+  {
+   "title": "Evaluating Machine Learning Models: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/model-evaluation-deep-dive.html",
+   "minutes": 11
   }
  ],
  "polynomial-regression-basis-functions": [
@@ -319,6 +436,16 @@
    "title": "Gradient Descent and the Learning Rate",
    "url": "https://ai-in-motion.vercel.app/watch/gradient-descent.html",
    "minutes": 2
+  },
+  {
+   "title": "Gradient Descent and Optimisation: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/gradient-descent-and-optimisation-deep-dive.html",
+   "minutes": 11
+  },
+  {
+   "title": "Calculus for Machine Learning: Derivatives, Gradients and the Chain Rule",
+   "url": "https://ai-in-motion.vercel.app/watch/calculus-for-machine-learning.html",
+   "minutes": 11
   }
  ],
  "sgd-momentum-nesterov": [
@@ -326,6 +453,11 @@
    "title": "Gradient Descent and the Learning Rate",
    "url": "https://ai-in-motion.vercel.app/watch/gradient-descent.html",
    "minutes": 2
+  },
+  {
+   "title": "Gradient Descent and Optimisation: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/gradient-descent-and-optimisation-deep-dive.html",
+   "minutes": 11
   },
   {
    "title": "Optimisers: SGD, Momentum and Adam",
@@ -340,6 +472,11 @@
    "minutes": 2
   },
   {
+   "title": "Gradient Descent and Optimisation: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/gradient-descent-and-optimisation-deep-dive.html",
+   "minutes": 11
+  },
+  {
    "title": "Optimisers: SGD, Momentum and Adam",
    "url": "https://ai-in-motion.vercel.app/watch/optimizers-sgd-momentum-adam.html",
    "minutes": 1
@@ -350,6 +487,11 @@
    "title": "Gradient Descent and the Learning Rate",
    "url": "https://ai-in-motion.vercel.app/watch/gradient-descent.html",
    "minutes": 2
+  },
+  {
+   "title": "Gradient Descent and Optimisation: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/gradient-descent-and-optimisation-deep-dive.html",
+   "minutes": 11
   },
   {
    "title": "Optimisers: SGD, Momentum and Adam",
@@ -477,6 +619,11 @@
    "title": "Principal Component Analysis (PCA)",
    "url": "https://ai-in-motion.vercel.app/watch/principal-component-analysis.html",
    "minutes": 1
+  },
+  {
+   "title": "Eigenvectors, SVD and PCA",
+   "url": "https://ai-in-motion.vercel.app/watch/eigenvectors-svd-and-pca.html",
+   "minutes": 10
   }
  ],
  "eigenvalues-and-eigenvectors": [
@@ -484,6 +631,11 @@
    "title": "Principal Component Analysis (PCA)",
    "url": "https://ai-in-motion.vercel.app/watch/principal-component-analysis.html",
    "minutes": 1
+  },
+  {
+   "title": "Eigenvectors, SVD and PCA",
+   "url": "https://ai-in-motion.vercel.app/watch/eigenvectors-svd-and-pca.html",
+   "minutes": 10
   }
  ],
  "tsne-and-umap": [
@@ -505,6 +657,11 @@
    "title": "Overfitting, Underfitting and Bias–Variance",
    "url": "https://ai-in-motion.vercel.app/watch/overfitting-and-bias-variance.html",
    "minutes": 1
+  },
+  {
+   "title": "Evaluating Machine Learning Models: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/model-evaluation-deep-dive.html",
+   "minutes": 11
   }
  ],
  "overfitting-underfitting-learning-curves": [
@@ -526,6 +683,11 @@
    "title": "Train/Test Splits and Cross-Validation",
    "url": "https://ai-in-motion.vercel.app/watch/train-test-split-and-cross-validation.html",
    "minutes": 2
+  },
+  {
+   "title": "Evaluating Machine Learning Models: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/model-evaluation-deep-dive.html",
+   "minutes": 11
   }
  ],
  "hyperparameter-tuning": [
@@ -540,6 +702,11 @@
    "title": "Confusion Matrix, Precision, Recall and ROC",
    "url": "https://ai-in-motion.vercel.app/watch/classification-metrics.html",
    "minutes": 2
+  },
+  {
+   "title": "Evaluating Machine Learning Models: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/model-evaluation-deep-dive.html",
+   "minutes": 11
   }
  ],
  "roc-auc-and-precision-recall-curves": [
@@ -547,6 +714,11 @@
    "title": "Confusion Matrix, Precision, Recall and ROC",
    "url": "https://ai-in-motion.vercel.app/watch/classification-metrics.html",
    "minutes": 2
+  },
+  {
+   "title": "Evaluating Machine Learning Models: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/model-evaluation-deep-dive.html",
+   "minutes": 11
   }
  ],
  "imbalanced-data-techniques": [
@@ -599,6 +771,11 @@
    "title": "Loss Functions and the Training Loop",
    "url": "https://ai-in-motion.vercel.app/watch/loss-functions-and-the-training-loop.html",
    "minutes": 2
+  },
+  {
+   "title": "Training Deep Neural Networks: A Practical Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/training-deep-networks-deep-dive.html",
+   "minutes": 11
   }
  ],
  "pytorch-fundamentals": [
@@ -613,6 +790,11 @@
    "title": "Loss Functions and the Training Loop",
    "url": "https://ai-in-motion.vercel.app/watch/loss-functions-and-the-training-loop.html",
    "minutes": 2
+  },
+  {
+   "title": "Training Deep Neural Networks: A Practical Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/training-deep-networks-deep-dive.html",
+   "minutes": 11
   }
  ],
  "backpropagation-derived": [
@@ -620,6 +802,11 @@
    "title": "Backpropagation, Step by Step",
    "url": "https://ai-in-motion.vercel.app/watch/backpropagation.html",
    "minutes": 2
+  },
+  {
+   "title": "Calculus for Machine Learning: Derivatives, Gradients and the Chain Rule",
+   "url": "https://ai-in-motion.vercel.app/watch/calculus-for-machine-learning.html",
+   "minutes": 11
   }
  ],
  "computational-graphs-autodiff": [
@@ -634,6 +821,11 @@
    "title": "Backpropagation, Step by Step",
    "url": "https://ai-in-motion.vercel.app/watch/backpropagation.html",
    "minutes": 2
+  },
+  {
+   "title": "Calculus for Machine Learning: Derivatives, Gradients and the Chain Rule",
+   "url": "https://ai-in-motion.vercel.app/watch/calculus-for-machine-learning.html",
+   "minutes": 11
   }
  ],
  "loss-landscapes": [
@@ -655,6 +847,11 @@
    "title": "Vanishing Gradients and Residual Connections",
    "url": "https://ai-in-motion.vercel.app/watch/vanishing-gradients-and-resnets.html",
    "minutes": 1
+  },
+  {
+   "title": "Training Deep Neural Networks: A Practical Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/training-deep-networks-deep-dive.html",
+   "minutes": 11
   }
  ],
  "batch-normalization": [
@@ -662,6 +859,11 @@
    "title": "Vanishing Gradients and Residual Connections",
    "url": "https://ai-in-motion.vercel.app/watch/vanishing-gradients-and-resnets.html",
    "minutes": 1
+  },
+  {
+   "title": "Training Deep Neural Networks: A Practical Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/training-deep-networks-deep-dive.html",
+   "minutes": 11
   }
  ],
  "dropout-regularization": [
@@ -676,6 +878,11 @@
    "title": "Dropout and Regularisation",
    "url": "https://ai-in-motion.vercel.app/watch/dropout-and-regularisation.html",
    "minutes": 1
+  },
+  {
+   "title": "Training Deep Neural Networks: A Practical Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/training-deep-networks-deep-dive.html",
+   "minutes": 11
   },
   {
    "title": "Data Augmentation for Vision",
@@ -700,6 +907,11 @@
    "title": "Recurrent Networks and LSTMs",
    "url": "https://ai-in-motion.vercel.app/watch/recurrent-networks-and-lstm.html",
    "minutes": 2
+  },
+  {
+   "title": "From RNNs to Transformers: Sequence Models in Depth",
+   "url": "https://ai-in-motion.vercel.app/watch/from-rnns-to-transformers-deep-dive.html",
+   "minutes": 11
   }
  ],
  "lstm-networks": [
@@ -707,6 +919,11 @@
    "title": "Recurrent Networks and LSTMs",
    "url": "https://ai-in-motion.vercel.app/watch/recurrent-networks-and-lstm.html",
    "minutes": 2
+  },
+  {
+   "title": "From RNNs to Transformers: Sequence Models in Depth",
+   "url": "https://ai-in-motion.vercel.app/watch/from-rnns-to-transformers-deep-dive.html",
+   "minutes": 11
   }
  ],
  "gru-gated-recurrent-units": [
@@ -721,6 +938,11 @@
    "title": "Recurrent Networks and LSTMs",
    "url": "https://ai-in-motion.vercel.app/watch/recurrent-networks-and-lstm.html",
    "minutes": 2
+  },
+  {
+   "title": "From RNNs to Transformers: Sequence Models in Depth",
+   "url": "https://ai-in-motion.vercel.app/watch/from-rnns-to-transformers-deep-dive.html",
+   "minutes": 11
   },
   {
    "title": "Sequence-to-Sequence Models and Translation",
@@ -738,6 +960,11 @@
    "title": "Word2vec and Word Embeddings",
    "url": "https://ai-in-motion.vercel.app/watch/word2vec-and-word-embeddings.html",
    "minutes": 1
+  },
+  {
+   "title": "Word Embeddings: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/word-embeddings-deep-dive.html",
+   "minutes": 11
   }
  ],
  "word2vec-word-embeddings": [
@@ -750,6 +977,11 @@
    "title": "Word2vec and Word Embeddings",
    "url": "https://ai-in-motion.vercel.app/watch/word2vec-and-word-embeddings.html",
    "minutes": 1
+  },
+  {
+   "title": "Word Embeddings: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/word-embeddings-deep-dive.html",
+   "minutes": 11
   }
  ],
  "semantic-search-information-retrieval": [
@@ -762,6 +994,11 @@
    "title": "Semantic Search with Embeddings",
    "url": "https://ai-in-motion.vercel.app/watch/semantic-search.html",
    "minutes": 1
+  },
+  {
+   "title": "Word Embeddings: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/word-embeddings-deep-dive.html",
+   "minutes": 11
   }
  ],
  "autoencoders": [
@@ -774,6 +1011,11 @@
    "title": "Variational Autoencoders",
    "url": "https://ai-in-motion.vercel.app/watch/variational-autoencoders.html",
    "minutes": 1
+  },
+  {
+   "title": "GANs and VAEs: A Deep Dive into Generative Models",
+   "url": "https://ai-in-motion.vercel.app/watch/gans-and-vaes-deep-dive.html",
+   "minutes": 11
   }
  ],
  "variational-autoencoders": [
@@ -791,6 +1033,11 @@
    "title": "Variational Autoencoders",
    "url": "https://ai-in-motion.vercel.app/watch/variational-autoencoders.html",
    "minutes": 1
+  },
+  {
+   "title": "GANs and VAEs: A Deep Dive into Generative Models",
+   "url": "https://ai-in-motion.vercel.app/watch/gans-and-vaes-deep-dive.html",
+   "minutes": 11
   }
  ],
  "anomaly-detection": [
@@ -810,6 +1057,11 @@
    "title": "Generative vs Discriminative Models",
    "url": "https://ai-in-motion.vercel.app/watch/generative-vs-discriminative-models.html",
    "minutes": 1
+  },
+  {
+   "title": "GANs and VAEs: A Deep Dive into Generative Models",
+   "url": "https://ai-in-motion.vercel.app/watch/gans-and-vaes-deep-dive.html",
+   "minutes": 11
   }
  ],
  "gan-variants-stylegan-cyclegan": [
@@ -817,6 +1069,11 @@
    "title": "Generative Adversarial Networks (GANs)",
    "url": "https://ai-in-motion.vercel.app/watch/generative-adversarial-networks.html",
    "minutes": 1
+  },
+  {
+   "title": "GANs and VAEs: A Deep Dive into Generative Models",
+   "url": "https://ai-in-motion.vercel.app/watch/gans-and-vaes-deep-dive.html",
+   "minutes": 11
   }
  ],
  "generative-vs-discriminative-models": [
@@ -829,6 +1086,11 @@
    "title": "Generative vs Discriminative Models",
    "url": "https://ai-in-motion.vercel.app/watch/generative-vs-discriminative-models.html",
    "minutes": 1
+  },
+  {
+   "title": "GANs and VAEs: A Deep Dive into Generative Models",
+   "url": "https://ai-in-motion.vercel.app/watch/gans-and-vaes-deep-dive.html",
+   "minutes": 11
   }
  ],
  "introduction-to-computer-vision": [
@@ -870,6 +1132,11 @@
    "title": "Pooling, Stride and Padding",
    "url": "https://ai-in-motion.vercel.app/watch/pooling-stride-and-padding.html",
    "minutes": 1
+  },
+  {
+   "title": "Convolutional Neural Networks: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/convolutional-networks-deep-dive.html",
+   "minutes": 11
   }
  ],
  "classical-features-sift-hog": [
@@ -889,6 +1156,11 @@
    "title": "Landmark CNNs: From LeNet to ResNet",
    "url": "https://ai-in-motion.vercel.app/watch/landmark-cnn-architectures.html",
    "minutes": 2
+  },
+  {
+   "title": "Convolutional Neural Networks: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/convolutional-networks-deep-dive.html",
+   "minutes": 11
   }
  ],
  "explainability-for-vision-grad-cam": [
@@ -903,6 +1175,11 @@
    "title": "Pooling, Stride and Padding",
    "url": "https://ai-in-motion.vercel.app/watch/pooling-stride-and-padding.html",
    "minutes": 1
+  },
+  {
+   "title": "Convolutional Neural Networks: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/convolutional-networks-deep-dive.html",
+   "minutes": 11
   }
  ],
  "vgg-and-inception": [
@@ -917,6 +1194,11 @@
    "title": "Landmark CNNs: From LeNet to ResNet",
    "url": "https://ai-in-motion.vercel.app/watch/landmark-cnn-architectures.html",
    "minutes": 2
+  },
+  {
+   "title": "Convolutional Neural Networks: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/convolutional-networks-deep-dive.html",
+   "minutes": 11
   }
  ],
  "efficientnet-and-model-scaling": [
@@ -950,6 +1232,11 @@
    "title": "Transfer Learning for Vision",
    "url": "https://ai-in-motion.vercel.app/watch/transfer-learning-for-vision.html",
    "minutes": 1
+  },
+  {
+   "title": "Convolutional Neural Networks: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/convolutional-networks-deep-dive.html",
+   "minutes": 11
   }
  ],
  "self-supervised-vision-simclr-dino-mae": [
@@ -986,6 +1273,11 @@
    "title": "Object Detection: Boxes, IoU and NMS",
    "url": "https://ai-in-motion.vercel.app/watch/object-detection.html",
    "minutes": 2
+  },
+  {
+   "title": "Object Detection and Segmentation: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/detection-and-segmentation-deep-dive.html",
+   "minutes": 11
   }
  ],
  "object-detection-rcnn-family": [
@@ -993,6 +1285,11 @@
    "title": "Object Detection: Boxes, IoU and NMS",
    "url": "https://ai-in-motion.vercel.app/watch/object-detection.html",
    "minutes": 2
+  },
+  {
+   "title": "Object Detection and Segmentation: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/detection-and-segmentation-deep-dive.html",
+   "minutes": 11
   }
  ],
  "ssd-retinanet-focal-loss": [
@@ -1000,6 +1297,11 @@
    "title": "Object Detection: Boxes, IoU and NMS",
    "url": "https://ai-in-motion.vercel.app/watch/object-detection.html",
    "minutes": 2
+  },
+  {
+   "title": "Object Detection and Segmentation: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/detection-and-segmentation-deep-dive.html",
+   "minutes": 11
   }
  ],
  "semantic-segmentation-fcn-unet": [
@@ -1007,6 +1309,11 @@
    "title": "Image Segmentation: Every Pixel Labelled",
    "url": "https://ai-in-motion.vercel.app/watch/image-segmentation.html",
    "minutes": 1
+  },
+  {
+   "title": "Object Detection and Segmentation: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/detection-and-segmentation-deep-dive.html",
+   "minutes": 11
   }
  ],
  "instance-segmentation-mask-rcnn": [
@@ -1021,6 +1328,11 @@
    "title": "Image Segmentation: Every Pixel Labelled",
    "url": "https://ai-in-motion.vercel.app/watch/image-segmentation.html",
    "minutes": 1
+  },
+  {
+   "title": "Object Detection and Segmentation: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/detection-and-segmentation-deep-dive.html",
+   "minutes": 11
   }
  ],
  "medical-imaging-ai": [
@@ -1085,6 +1397,11 @@
    "title": "Tokenization and Byte-Pair Encoding",
    "url": "https://ai-in-motion.vercel.app/watch/tokenization-and-subwords.html",
    "minutes": 2
+  },
+  {
+   "title": "Text Classification from Start to Finish",
+   "url": "https://ai-in-motion.vercel.app/watch/text-classification-end-to-end.html",
+   "minutes": 11
   }
  ],
  "subword-tokenization-bpe-wordpiece": [
@@ -1099,6 +1416,11 @@
    "title": "Bag of Words and TF-IDF",
    "url": "https://ai-in-motion.vercel.app/watch/bag-of-words-and-tf-idf.html",
    "minutes": 1
+  },
+  {
+   "title": "Word Embeddings: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/word-embeddings-deep-dive.html",
+   "minutes": 11
   }
  ],
  "text-classification": [
@@ -1111,6 +1433,11 @@
    "title": "Sentiment Analysis and Text Classification",
    "url": "https://ai-in-motion.vercel.app/watch/sentiment-and-text-classification.html",
    "minutes": 1
+  },
+  {
+   "title": "Text Classification from Start to Finish",
+   "url": "https://ai-in-motion.vercel.app/watch/text-classification-end-to-end.html",
+   "minutes": 11
   }
  ],
  "n-gram-language-models": [
@@ -1125,6 +1452,11 @@
    "title": "N-gram Language Models",
    "url": "https://ai-in-motion.vercel.app/watch/n-gram-language-models.html",
    "minutes": 1
+  },
+  {
+   "title": "Text Classification from Start to Finish",
+   "url": "https://ai-in-motion.vercel.app/watch/text-classification-end-to-end.html",
+   "minutes": 11
   }
  ],
  "glove-fasttext-embeddings": [
@@ -1132,6 +1464,11 @@
    "title": "Word2vec and Word Embeddings",
    "url": "https://ai-in-motion.vercel.app/watch/word2vec-and-word-embeddings.html",
    "minutes": 1
+  },
+  {
+   "title": "Word Embeddings: A Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/word-embeddings-deep-dive.html",
+   "minutes": 11
   }
  ],
  "sentiment-analysis": [
@@ -1139,6 +1476,11 @@
    "title": "Sentiment Analysis and Text Classification",
    "url": "https://ai-in-motion.vercel.app/watch/sentiment-and-text-classification.html",
    "minutes": 1
+  },
+  {
+   "title": "Text Classification from Start to Finish",
+   "url": "https://ai-in-motion.vercel.app/watch/text-classification-end-to-end.html",
+   "minutes": 11
   }
  ],
  "fine-tuning-pretrained-language-models": [
@@ -1146,6 +1488,11 @@
    "title": "Sentiment Analysis and Text Classification",
    "url": "https://ai-in-motion.vercel.app/watch/sentiment-and-text-classification.html",
    "minutes": 1
+  },
+  {
+   "title": "Text Classification from Start to Finish",
+   "url": "https://ai-in-motion.vercel.app/watch/text-classification-end-to-end.html",
+   "minutes": 11
   },
   {
    "title": "LoRA and Parameter-Efficient Fine-Tuning",
@@ -1179,6 +1526,11 @@
    "title": "Positional Encoding: Teaching Transformers Word Order",
    "url": "https://ai-in-motion.vercel.app/watch/positional-encoding.html",
    "minutes": 1
+  },
+  {
+   "title": "The Attention Mechanism in Depth",
+   "url": "https://ai-in-motion.vercel.app/watch/attention-mechanism-deep-dive.html",
+   "minutes": 11
   }
  ],
  "efficient-transformers-long-context": [
@@ -1186,6 +1538,11 @@
    "title": "Positional Encoding: Teaching Transformers Word Order",
    "url": "https://ai-in-motion.vercel.app/watch/positional-encoding.html",
    "minutes": 1
+  },
+  {
+   "title": "The Attention Mechanism in Depth",
+   "url": "https://ai-in-motion.vercel.app/watch/attention-mechanism-deep-dive.html",
+   "minutes": 11
   }
  ],
  "bert-explained": [
@@ -1247,6 +1604,11 @@
    "title": "Classifier-Free Guidance",
    "url": "https://ai-in-motion.vercel.app/watch/classifier-free-guidance.html",
    "minutes": 1
+  },
+  {
+   "title": "Diffusion Models: The Complete Deep Dive",
+   "url": "https://ai-in-motion.vercel.app/watch/diffusion-models-complete-deep-dive.html",
+   "minutes": 11
   }
  ],
  "pretraining-llms-data-and-objectives": [
@@ -1254,6 +1616,11 @@
    "title": "How Large Language Models Are Trained",
    "url": "https://ai-in-motion.vercel.app/watch/how-llms-are-trained.html",
    "minutes": 1
+  },
+  {
+   "title": "Pre-training LLMs at Scale",
+   "url": "https://ai-in-motion.vercel.app/watch/pretraining-llms-at-scale.html",
+   "minutes": 11
   }
  ],
  "instruction-tuning": [
@@ -1261,6 +1628,11 @@
    "title": "How Large Language Models Are Trained",
    "url": "https://ai-in-motion.vercel.app/watch/how-llms-are-trained.html",
    "minutes": 1
+  },
+  {
+   "title": "Aligning LLMs: Instruction Tuning, RLHF and DPO",
+   "url": "https://ai-in-motion.vercel.app/watch/aligning-llms-sft-rlhf-dpo.html",
+   "minutes": 11
   }
  ],
  "rlhf-reinforcement-learning-human-feedback": [
@@ -1268,6 +1640,16 @@
    "title": "How Large Language Models Are Trained",
    "url": "https://ai-in-motion.vercel.app/watch/how-llms-are-trained.html",
    "minutes": 1
+  },
+  {
+   "title": "Aligning LLMs: Instruction Tuning, RLHF and DPO",
+   "url": "https://ai-in-motion.vercel.app/watch/aligning-llms-sft-rlhf-dpo.html",
+   "minutes": 11
+  },
+  {
+   "title": "Policy Gradients, Actor–Critic and PPO",
+   "url": "https://ai-in-motion.vercel.app/watch/policy-gradients-and-ppo.html",
+   "minutes": 11
   }
  ],
  "scaling-laws": [
@@ -1275,6 +1657,11 @@
    "title": "How Large Language Models Are Trained",
    "url": "https://ai-in-motion.vercel.app/watch/how-llms-are-trained.html",
    "minutes": 1
+  },
+  {
+   "title": "Pre-training LLMs at Scale",
+   "url": "https://ai-in-motion.vercel.app/watch/pretraining-llms-at-scale.html",
+   "minutes": 11
   }
  ],
  "dpo-preference-optimization": [
@@ -1282,6 +1669,11 @@
    "title": "How Large Language Models Are Trained",
    "url": "https://ai-in-motion.vercel.app/watch/how-llms-are-trained.html",
    "minutes": 1
+  },
+  {
+   "title": "Aligning LLMs: Instruction Tuning, RLHF and DPO",
+   "url": "https://ai-in-motion.vercel.app/watch/aligning-llms-sft-rlhf-dpo.html",
+   "minutes": 11
   }
  ],
  "prompt-engineering": [
@@ -1289,6 +1681,11 @@
    "title": "Prompt Engineering and Chain-of-Thought",
    "url": "https://ai-in-motion.vercel.app/watch/prompt-engineering-and-chain-of-thought.html",
    "minutes": 1
+  },
+  {
+   "title": "Building with LLMs: Prompting, RAG and Agents",
+   "url": "https://ai-in-motion.vercel.app/watch/building-llm-applications.html",
+   "minutes": 11
   }
  ],
  "chain-of-thought-reasoning": [
@@ -1310,6 +1707,11 @@
    "title": "Retrieval-Augmented Generation (RAG)",
    "url": "https://ai-in-motion.vercel.app/watch/retrieval-augmented-generation.html",
    "minutes": 1
+  },
+  {
+   "title": "Building with LLMs: Prompting, RAG and Agents",
+   "url": "https://ai-in-motion.vercel.app/watch/building-llm-applications.html",
+   "minutes": 11
   }
  ],
  "building-llm-applications-end-to-end": [
@@ -1322,6 +1724,11 @@
    "title": "AI Agents and Tool Use",
    "url": "https://ai-in-motion.vercel.app/watch/ai-agents-and-tool-use.html",
    "minutes": 1
+  },
+  {
+   "title": "Building with LLMs: Prompting, RAG and Agents",
+   "url": "https://ai-in-motion.vercel.app/watch/building-llm-applications.html",
+   "minutes": 11
   }
  ],
  "lora-and-parameter-efficient-fine-tuning": [
@@ -1329,6 +1736,11 @@
    "title": "LoRA and Parameter-Efficient Fine-Tuning",
    "url": "https://ai-in-motion.vercel.app/watch/lora-and-parameter-efficient-fine-tuning.html",
    "minutes": 1
+  },
+  {
+   "title": "Matrices as Transformations",
+   "url": "https://ai-in-motion.vercel.app/watch/matrices-as-transformations.html",
+   "minutes": 11
   }
  ],
  "llm-quantization": [
@@ -1341,6 +1753,11 @@
    "title": "Quantisation: Smaller, Faster Models",
    "url": "https://ai-in-motion.vercel.app/watch/quantization.html",
    "minutes": 1
+  },
+  {
+   "title": "LLM Inference Engineering",
+   "url": "https://ai-in-motion.vercel.app/watch/llm-inference-engineering.html",
+   "minutes": 11
   }
  ],
  "llm-inference-optimization": [
@@ -1353,6 +1770,11 @@
    "title": "Mixture of Experts",
    "url": "https://ai-in-motion.vercel.app/watch/mixture-of-experts.html",
    "minutes": 1
+  },
+  {
+   "title": "LLM Inference Engineering",
+   "url": "https://ai-in-motion.vercel.app/watch/llm-inference-engineering.html",
+   "minutes": 11
   }
  ],
  "pruning-and-quantization": [
@@ -1374,6 +1796,380 @@
    "title": "Mixture of Experts",
    "url": "https://ai-in-motion.vercel.app/watch/mixture-of-experts.html",
    "minutes": 1
+  },
+  {
+   "title": "Pre-training LLMs at Scale",
+   "url": "https://ai-in-motion.vercel.app/watch/pretraining-llms-at-scale.html",
+   "minutes": 11
+  }
+ ],
+ "mixed-precision-training": [
+  {
+   "title": "Pre-training LLMs at Scale",
+   "url": "https://ai-in-motion.vercel.app/watch/pretraining-llms-at-scale.html",
+   "minutes": 11
+  }
+ ],
+ "ai-safety-and-alignment": [
+  {
+   "title": "Aligning LLMs: Instruction Tuning, RLHF and DPO",
+   "url": "https://ai-in-motion.vercel.app/watch/aligning-llms-sft-rlhf-dpo.html",
+   "minutes": 11
+  }
+ ],
+ "model-serving-and-apis": [
+  {
+   "title": "LLM Inference Engineering",
+   "url": "https://ai-in-motion.vercel.app/watch/llm-inference-engineering.html",
+   "minutes": 11
+  },
+  {
+   "title": "Packaging and Serving Models",
+   "url": "https://ai-in-motion.vercel.app/watch/packaging-and-serving-models.html",
+   "minutes": 11
+  }
+ ],
+ "introduction-to-reinforcement-learning": [
+  {
+   "title": "Reinforcement Learning Foundations: Agents, MDPs and Returns",
+   "url": "https://ai-in-motion.vercel.app/watch/rl-foundations-mdps-and-returns.html",
+   "minutes": 11
+  }
+ ],
+ "markov-decision-processes": [
+  {
+   "title": "Reinforcement Learning Foundations: Agents, MDPs and Returns",
+   "url": "https://ai-in-motion.vercel.app/watch/rl-foundations-mdps-and-returns.html",
+   "minutes": 11
+  },
+  {
+   "title": "Dynamic Programming: Value Iteration and Policy Iteration",
+   "url": "https://ai-in-motion.vercel.app/watch/dynamic-programming-value-and-policy-iteration.html",
+   "minutes": 11
+  }
+ ],
+ "bellman-equations": [
+  {
+   "title": "Reinforcement Learning Foundations: Agents, MDPs and Returns",
+   "url": "https://ai-in-motion.vercel.app/watch/rl-foundations-mdps-and-returns.html",
+   "minutes": 11
+  },
+  {
+   "title": "Dynamic Programming: Value Iteration and Policy Iteration",
+   "url": "https://ai-in-motion.vercel.app/watch/dynamic-programming-value-and-policy-iteration.html",
+   "minutes": 11
+  }
+ ],
+ "dynamic-programming-value-policy-iteration": [
+  {
+   "title": "Dynamic Programming: Value Iteration and Policy Iteration",
+   "url": "https://ai-in-motion.vercel.app/watch/dynamic-programming-value-and-policy-iteration.html",
+   "minutes": 11
+  }
+ ],
+ "monte-carlo-methods-rl": [
+  {
+   "title": "Learning from Experience: Monte Carlo, TD, SARSA and Q-Learning",
+   "url": "https://ai-in-motion.vercel.app/watch/monte-carlo-and-td-learning.html",
+   "minutes": 11
+  }
+ ],
+ "temporal-difference-learning": [
+  {
+   "title": "Learning from Experience: Monte Carlo, TD, SARSA and Q-Learning",
+   "url": "https://ai-in-motion.vercel.app/watch/monte-carlo-and-td-learning.html",
+   "minutes": 11
+  }
+ ],
+ "q-learning-and-sarsa": [
+  {
+   "title": "Learning from Experience: Monte Carlo, TD, SARSA and Q-Learning",
+   "url": "https://ai-in-motion.vercel.app/watch/monte-carlo-and-td-learning.html",
+   "minutes": 11
+  }
+ ],
+ "multi-armed-bandits-exploration": [
+  {
+   "title": "Exploration and Multi-Armed Bandits",
+   "url": "https://ai-in-motion.vercel.app/watch/exploration-and-multi-armed-bandits.html",
+   "minutes": 11
+  }
+ ],
+ "ab-testing-ml-models": [
+  {
+   "title": "Exploration and Multi-Armed Bandits",
+   "url": "https://ai-in-motion.vercel.app/watch/exploration-and-multi-armed-bandits.html",
+   "minutes": 11
+  },
+  {
+   "title": "CI/CD for ML and Safe Deployment Strategies",
+   "url": "https://ai-in-motion.vercel.app/watch/ci-cd-and-deployment-strategies.html",
+   "minutes": 11
+  },
+  {
+   "title": "A/B Testing and Responsible ML in Production",
+   "url": "https://ai-in-motion.vercel.app/watch/ab-testing-and-responsible-ml-in-production.html",
+   "minutes": 11
+  }
+ ],
+ "deep-q-networks-dqn": [
+  {
+   "title": "Deep Q-Networks: Reinforcement Learning Meets Deep Learning",
+   "url": "https://ai-in-motion.vercel.app/watch/deep-q-networks.html",
+   "minutes": 11
+  }
+ ],
+ "dqn-improvements-rainbow": [
+  {
+   "title": "Deep Q-Networks: Reinforcement Learning Meets Deep Learning",
+   "url": "https://ai-in-motion.vercel.app/watch/deep-q-networks.html",
+   "minutes": 11
+  }
+ ],
+ "function-approximation-rl": [
+  {
+   "title": "Deep Q-Networks: Reinforcement Learning Meets Deep Learning",
+   "url": "https://ai-in-motion.vercel.app/watch/deep-q-networks.html",
+   "minutes": 11
+  }
+ ],
+ "policy-gradients-reinforce": [
+  {
+   "title": "Policy Gradients, Actor–Critic and PPO",
+   "url": "https://ai-in-motion.vercel.app/watch/policy-gradients-and-ppo.html",
+   "minutes": 11
+  }
+ ],
+ "actor-critic-methods": [
+  {
+   "title": "Policy Gradients, Actor–Critic and PPO",
+   "url": "https://ai-in-motion.vercel.app/watch/policy-gradients-and-ppo.html",
+   "minutes": 11
+  }
+ ],
+ "ppo-proximal-policy-optimization": [
+  {
+   "title": "Policy Gradients, Actor–Critic and PPO",
+   "url": "https://ai-in-motion.vercel.app/watch/policy-gradients-and-ppo.html",
+   "minutes": 11
+  }
+ ],
+ "what-is-mlops": [
+  {
+   "title": "What is MLOps? The Machine Learning Lifecycle",
+   "url": "https://ai-in-motion.vercel.app/watch/what-is-mlops-and-the-ml-lifecycle.html",
+   "minutes": 11
+  }
+ ],
+ "ml-project-structure-clean-code": [
+  {
+   "title": "What is MLOps? The Machine Learning Lifecycle",
+   "url": "https://ai-in-motion.vercel.app/watch/what-is-mlops-and-the-ml-lifecycle.html",
+   "minutes": 11
+  }
+ ],
+ "data-versioning-and-pipelines": [
+  {
+   "title": "Data Pipelines, Versioning and Experiment Tracking",
+   "url": "https://ai-in-motion.vercel.app/watch/data-and-experiment-management.html",
+   "minutes": 11
+  }
+ ],
+ "experiment-tracking": [
+  {
+   "title": "Data Pipelines, Versioning and Experiment Tracking",
+   "url": "https://ai-in-motion.vercel.app/watch/data-and-experiment-management.html",
+   "minutes": 11
+  }
+ ],
+ "feature-stores": [
+  {
+   "title": "Data Pipelines, Versioning and Experiment Tracking",
+   "url": "https://ai-in-motion.vercel.app/watch/data-and-experiment-management.html",
+   "minutes": 11
+  }
+ ],
+ "reproducibility-in-ml": [
+  {
+   "title": "Data Pipelines, Versioning and Experiment Tracking",
+   "url": "https://ai-in-motion.vercel.app/watch/data-and-experiment-management.html",
+   "minutes": 11
+  }
+ ],
+ "docker-for-machine-learning": [
+  {
+   "title": "Packaging and Serving Models",
+   "url": "https://ai-in-motion.vercel.app/watch/packaging-and-serving-models.html",
+   "minutes": 11
+  }
+ ],
+ "gpus-and-ml-hardware": [
+  {
+   "title": "Packaging and Serving Models",
+   "url": "https://ai-in-motion.vercel.app/watch/packaging-and-serving-models.html",
+   "minutes": 11
+  }
+ ],
+ "edge-ai-tinyml": [
+  {
+   "title": "Packaging and Serving Models",
+   "url": "https://ai-in-motion.vercel.app/watch/packaging-and-serving-models.html",
+   "minutes": 11
+  }
+ ],
+ "ci-cd-for-machine-learning": [
+  {
+   "title": "CI/CD for ML and Safe Deployment Strategies",
+   "url": "https://ai-in-motion.vercel.app/watch/ci-cd-and-deployment-strategies.html",
+   "minutes": 11
+  },
+  {
+   "title": "Monitoring, Drift and Retraining",
+   "url": "https://ai-in-motion.vercel.app/watch/monitoring-drift-and-retraining.html",
+   "minutes": 11
+  }
+ ],
+ "model-cards-and-documentation": [
+  {
+   "title": "CI/CD for ML and Safe Deployment Strategies",
+   "url": "https://ai-in-motion.vercel.app/watch/ci-cd-and-deployment-strategies.html",
+   "minutes": 11
+  },
+  {
+   "title": "A/B Testing and Responsible ML in Production",
+   "url": "https://ai-in-motion.vercel.app/watch/ab-testing-and-responsible-ml-in-production.html",
+   "minutes": 11
+  }
+ ],
+ "model-monitoring-and-drift": [
+  {
+   "title": "Monitoring, Drift and Retraining",
+   "url": "https://ai-in-motion.vercel.app/watch/monitoring-drift-and-retraining.html",
+   "minutes": 11
+  }
+ ],
+ "fairness-metrics": [
+  {
+   "title": "Monitoring, Drift and Retraining",
+   "url": "https://ai-in-motion.vercel.app/watch/monitoring-drift-and-retraining.html",
+   "minutes": 11
+  },
+  {
+   "title": "A/B Testing and Responsible ML in Production",
+   "url": "https://ai-in-motion.vercel.app/watch/ab-testing-and-responsible-ml-in-production.html",
+   "minutes": 11
+  }
+ ],
+ "explainable-ai-lime-shap": [
+  {
+   "title": "A/B Testing and Responsible ML in Production",
+   "url": "https://ai-in-motion.vercel.app/watch/ab-testing-and-responsible-ml-in-production.html",
+   "minutes": 11
+  }
+ ],
+ "ai-regulation-and-governance": [
+  {
+   "title": "A/B Testing and Responsible ML in Production",
+   "url": "https://ai-in-motion.vercel.app/watch/ab-testing-and-responsible-ml-in-production.html",
+   "minutes": 11
+  }
+ ],
+ "vectors-and-vector-spaces": [
+  {
+   "title": "Vectors, Norms and the Dot Product",
+   "url": "https://ai-in-motion.vercel.app/watch/vectors-and-dot-products.html",
+   "minutes": 12
+  }
+ ],
+ "norms-inner-products-and-distances": [
+  {
+   "title": "Vectors, Norms and the Dot Product",
+   "url": "https://ai-in-motion.vercel.app/watch/vectors-and-dot-products.html",
+   "minutes": 12
+  }
+ ],
+ "why-mathematics-matters-for-ml": [
+  {
+   "title": "Vectors, Norms and the Dot Product",
+   "url": "https://ai-in-motion.vercel.app/watch/vectors-and-dot-products.html",
+   "minutes": 12
+  }
+ ],
+ "matrices-and-linear-transformations": [
+  {
+   "title": "Matrices as Transformations",
+   "url": "https://ai-in-motion.vercel.app/watch/matrices-as-transformations.html",
+   "minutes": 11
+  }
+ ],
+ "tensors-and-tensor-operations": [
+  {
+   "title": "Matrices as Transformations",
+   "url": "https://ai-in-motion.vercel.app/watch/matrices-as-transformations.html",
+   "minutes": 11
+  }
+ ],
+ "singular-value-decomposition": [
+  {
+   "title": "Eigenvectors, SVD and PCA",
+   "url": "https://ai-in-motion.vercel.app/watch/eigenvectors-svd-and-pca.html",
+   "minutes": 10
+  }
+ ],
+ "probability-fundamentals": [
+  {
+   "title": "Probability and Distributions for ML",
+   "url": "https://ai-in-motion.vercel.app/watch/probability-and-distributions.html",
+   "minutes": 11
+  }
+ ],
+ "random-variables-and-distributions": [
+  {
+   "title": "Probability and Distributions for ML",
+   "url": "https://ai-in-motion.vercel.app/watch/probability-and-distributions.html",
+   "minutes": 11
+  }
+ ],
+ "gaussian-distribution-deep-dive": [
+  {
+   "title": "Probability and Distributions for ML",
+   "url": "https://ai-in-motion.vercel.app/watch/probability-and-distributions.html",
+   "minutes": 11
+  }
+ ],
+ "sampling-and-monte-carlo-methods": [
+  {
+   "title": "Probability and Distributions for ML",
+   "url": "https://ai-in-motion.vercel.app/watch/probability-and-distributions.html",
+   "minutes": 11
+  }
+ ],
+ "markov-chains-for-ml": [
+  {
+   "title": "Probability and Distributions for ML",
+   "url": "https://ai-in-motion.vercel.app/watch/probability-and-distributions.html",
+   "minutes": 11
+  }
+ ],
+ "maximum-likelihood-estimation": [
+  {
+   "title": "Likelihood, Bayes and Information Theory",
+   "url": "https://ai-in-motion.vercel.app/watch/statistics-and-information-theory.html",
+   "minutes": 11
+  }
+ ],
+ "map-estimation-and-priors": [
+  {
+   "title": "Likelihood, Bayes and Information Theory",
+   "url": "https://ai-in-motion.vercel.app/watch/statistics-and-information-theory.html",
+   "minutes": 11
+  }
+ ],
+ "information-theory-entropy-kl": [
+  {
+   "title": "Likelihood, Bayes and Information Theory",
+   "url": "https://ai-in-motion.vercel.app/watch/statistics-and-information-theory.html",
+   "minutes": 11
   }
  ]
 }
