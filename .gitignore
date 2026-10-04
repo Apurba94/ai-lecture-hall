@@ -9,3 +9,8 @@ site/
 *.zip
 .claude/
 node_modules/
+
+# Private chat history with Claude (local only, never published)
+Chat_History_*.docx
+~$*.docx
+tools/
